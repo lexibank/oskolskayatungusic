@@ -49,9 +49,11 @@ class Dataset(pylexibank.Dataset):
 
     # define the way in which forms should be handled
     form_spec = pylexibank.FormSpec(
-        brackets={"(": ")"},  # characters that function as brackets
-        separators=";/,",  # characters that split forms e.g. "a, b".
-        missing_data=('?', '-'),  # characters that denote missing data.
+        first_form_only=True,
+        brackets={"(": ")", "[": "]"},  # characters that function as brackets
+        separators=";/,~",  # characters that split forms e.g. "a, b".
+        missing_data=('?', '-', '='),  # characters that denote missing data.
+        replacements=[("CASE", ""), ('...', ''), (" ", "_")],
         strip_inside_brackets=True   # do you want data removed in brackets or not?
     )
 
@@ -109,20 +111,20 @@ class Dataset(pylexibank.Dataset):
             for language in languages:
                 subrow = get_subrow(language, header, row)
                 form = get_best(subrow)
+                if form.strip():
                 
-                lex = args.writer.add_form(
-                    Language_ID=language_lookup[language],
-                    Parameter_ID=concepts[concept],
-                    Value=form,
-                    Form=form,
-                    Comment=subrow["Comments"],
-                    Source=get_source(subrow['References'])
-                )
-                
-                # add cognates - 
-                args.writer.add_cognate(
-                    lexeme=lex,
-                    Cognateset_ID="%s-%d" % (concepts[concept], i)
-                )
+                    lex = args.writer.add_forms_from_value(
+                        Language_ID=language_lookup[language],
+                        Parameter_ID=concepts[concept],
+                        Value=form,
+                        Comment=subrow["Comments"],
+                        Source=get_source(subrow['References'])
+                    )
+                    
+                    # add cognates - 
+                    args.writer.add_cognate(
+                        lexeme=lex[0],
+                        Cognateset_ID="%s-%d" % (concepts[concept], i)
+                    )
 
 

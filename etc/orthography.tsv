@@ -1,0 +1,510 @@
+Grapheme	IPA	Examples	Languages	Frequence	Codepoints
+^	NULL				
+$	NULL				
+-	<?>	əmə-, ŋənə-	Kur_Urmi, Nanai_Najkhin, Nanai_Bikin, Manchu, Evenki_Chiringda, Ulcha, Evenki_Teteya, Udihe, Oroch, Hezhe, Orok, Xibe, Even, Evenki_StonyTunguska, Negidal, Oroqen, Evenki_Khamnigan, Evenki_Strelka_Chun, Solon, Evenki_Tutonchany, Jurchen	100	U+002d
+a	a	halgan, nuŋan	Nanai_Bikin, Evenki_Chiringda, Evenki_Strelka_Chun, Kur_Urmi, Ulcha, Nanai_Najkhin, Manchu, Evenki_Tutonchany, Evenki_StonyTunguska, Hezhe, Negidal, Jurchen, Evenki_Teteya, Udihe, Oroqen, Solon, Oroch, Orok, Evenki_Khamnigan	100	U+0061
+ə$	ə	əmə-, ŋənə-	Nanai_Bikin, Hezhe, Kur_Urmi, Oroch, Evenki_StonyTunguska, Negidal, Oroqen, Udihe, Evenki_Chiringda, Ulcha, Orok, Evenki_Tutonchany, Nanai_Najkhin, Evenki_Teteya, Evenki_Khamnigan, Evenki_Strelka_Chun, Jurchen, Manchu, Solon	100	U+0259 U+0024
+ə	ə	ŋənə-, gərbiː	Hezhe, Manchu, Kur_Urmi, Evenki_Chiringda, Evenki_StonyTunguska, Negidal, Jurchen, Nanai_Bikin, Evenki_Tutonchany, Evenki_Teteya, Oroqen, Evenki_Khamnigan, Solon, Ulcha, Nanai_Najkhin, Oroch, Evenki_Strelka_Chun, Udihe, Orok	100	U+0259
+l	l	dolbo, ʤolo	Kur_Urmi, Evenki_Chiringda, Ulcha, Evenki_Teteya, Evenki_Strelka_Chun, Evenki_Tutonchany, Even, Evenki_StonyTunguska, Negidal, Nanai_Bikin, Oroqen, Hezhe, Orok, Evenki_Khamnigan, Nanai_Najkhin, Udihe, Xibe, Jurchen, Oroch, Manchu, Solon	100	U+006c
+u	u	nuŋan, gun-	Orok, Evenki_Chiringda, Xibe, Evenki_Strelka_Chun, Evenki_Teteya, Kur_Urmi, Nanai_Bikin, Udihe, Ulcha, Manchu, Negidal, Nanai_Najkhin, Jurchen, Oroch, Evenki_Khamnigan, Evenki_Tutonchany, Even, Oroqen, Hezhe, Solon, Evenki_StonyTunguska	100	U+0075
+a$	a	amŋa, ŋala	Manchu, Ulcha, Jurchen, Nanai_Najkhin, Nanai_Bikin, Kur_Urmi, Oroqen, Oroch, Negidal, Udihe, Evenki_Khamnigan, Solon, Evenki_Tutonchany, Evenki_Chiringda, Evenki_StonyTunguska, Evenki_Teteya, Hezhe, Evenki_Strelka_Chun, Orok	100	U+0061 U+0024
+i	i	sji_, bji_	Xibe, Oroch, Negidal, Hezhe, Orok, Evenki_Strelka_Chun, Nanai_Najkhin, Kur_Urmi, Nanai_Bikin, Udihe, Manchu, Evenki_Chiringda, Ulcha, Jurchen, Evenki_Teteya, Evenki_Tutonchany, Even, Evenki_Khamnigan, Solon, Evenki_StonyTunguska, Oroqen	100	U+0069
+n$	n	nuŋan, gun-	Evenki_Strelka_Chun, Even, Negidal, Evenki_Tutonchany, Evenki_Chiringda, Evenki_Teteya, Evenki_StonyTunguska, Hezhe, Nanai_Najkhin, Oroqen, Xibe, Evenki_Khamnigan, Manchu, Kur_Urmi, Orok, Nanai_Bikin, Solon, Ulcha, Jurchen, Oroch	100	U+006e U+0024
+j	j	ijə, sji_	Manchu, Nanai_Bikin, Udihe, Kur_Urmi, Oroch, Negidal, Nanai_Najkhin, Ulcha, Hezhe, Evenki_Khamnigan, Orok, Evenki_Tutonchany, Evenki_StonyTunguska, Evenki_Chiringda, Xibe, Evenki_Teteya, Even, Evenki_Strelka_Chun	100	U+006a
+i$	i	əri, ili-	Udihe, Oroch, Jurchen, Orok, Hezhe, Nanai_Bikin, Xibe, Manchu, Negidal, Evenki_Khamnigan, Solon, Ulcha, Oroqen, Evenki_Tutonchany, Evenki_Chiringda, Nanai_Najkhin, Kur_Urmi, Even, Evenki_Teteya, Evenki_Strelka_Chun	100	U+0069 U+0024
+r	r	əri, gərbiː	Orok, Evenki_Tutonchany, Even, Nanai_Bikin, Xibe, Manchu, Evenki_Chiringda, Jurchen, Oroqen, Evenki_Strelka_Chun, Evenki_Teteya, Kur_Urmi, Evenki_Khamnigan, Evenki_StonyTunguska, Hezhe, Solon, Nanai_Najkhin, Ulcha, Negidal	100	U+0072
+k	k	iktə, oŋokto	Evenki_Chiringda, Evenki_StonyTunguska, Evenki_Strelka_Chun, Evenki_Tutonchany, Evenki_Teteya, Evenki_Khamnigan, Kur_Urmi, Nanai_Bikin, Negidal, Oroqen, Udihe, Even, Nanai_Najkhin, Oroch, Orok, Hezhe, Jurchen, Manchu, Solon	100	U+006b
+m	m	əmə-, amŋa	Evenki_Khamnigan, Evenki_Chiringda, Hezhe, Evenki_StonyTunguska, Kur_Urmi, Oroqen, Udihe, Evenki_Strelka_Chun, Evenki_Tutonchany, Evenki_Teteya, Nanai_Bikin, Negidal, Jurchen, Oroch, Manchu, Ulcha, Even, Nanai_Najkhin, Xibe, Solon, Orok	100	U+006d
+t	t	iktə, oŋokto	Kur_Urmi, Evenki_Tutonchany, Evenki_Chiringda, Ulcha, Oroch, Evenki_StonyTunguska, Negidal, Evenki_Teteya, Orok, Evenki_Khamnigan, Evenki_Strelka_Chun, Nanai_Najkhin, Nanai_Bikin, Oroqen, Udihe, Even, Manchu, Jurchen, Xibe	100	U+0074
+d	d	uldə, tigdə	Evenki_Tutonchany, Evenki_Chiringda, Evenki_Khamnigan, Orok, Evenki_StonyTunguska, Oroch, Ulcha, Negidal, Oroqen, Udihe, Evenki_Strelka_Chun, Solon, Nanai_Bikin, Hezhe, Even, Evenki_Teteya, Kur_Urmi, Nanai_Najkhin, Jurchen, Manchu, Xibe	100	U+0064
+n	n	ŋənə-, koŋnomo	Oroqen, Orok, Kur_Urmi, Evenki_Tutonchany, Hezhe, Evenki_Khamnigan, Evenki_Chiringda, Evenki_StonyTunguska, Udihe, Evenki_Strelka_Chun, Solon, Jurchen, Evenki_Teteya, Xibe, Manchu, Ulcha, Even, Negidal, Nanai_Najkhin, Nanai_Bikin, Oroch	100	U+006e
+o	o	dolbo, goroloː	Negidal, Evenki_Strelka_Chun, Evenki_Chiringda, Evenki_Tutonchany, Evenki_StonyTunguska, Nanai_Najkhin, Kur_Urmi, Nanai_Bikin, Ulcha, Manchu, Evenki_Teteya, Evenki_Khamnigan, Jurchen, Udihe, Xibe, Hezhe, Oroch, Solon	100	U+006f
+ŋ	ŋ	amŋa, nuŋan	Even, Negidal, Jurchen, Oroqen, Kur_Urmi, Evenki_Strelka_Chun, Evenki_Tutonchany, Evenki_StonyTunguska, Evenki_Teteya, Udihe, Oroch, Manchu, Evenki_Chiringda, Orok, Evenki_Khamnigan, Solon, Ulcha, Nanai_Bikin, Hezhe, Nanai_Najkhin, Xibe	100	U+014b
+^t	t	toγo, tigdə	Ulcha, Even, Evenki_Chiringda, Negidal, Oroqen, Oroch, Orok, Evenki_Tutonchany, Evenki_StonyTunguska, Nanai_Bikin, Hezhe, Manchu, Nanai_Najkhin, Evenki_Teteya, Kur_Urmi, Evenki_Khamnigan, Solon, Jurchen, Udihe, Evenki_Strelka_Chun	100	U+005e U+0074
+g	g	ʤəgdə-, tigdə	Jurchen, Udihe, Manchu, Evenki_Chiringda, Ulcha, Oroqen, Negidal, Nanai_Bikin, Oroch, Evenki_Khamnigan, Evenki_Tutonchany, Even, Kur_Urmi, Orok, Nanai_Najkhin, Evenki_Teteya, Evenki_Strelka_Chun, Solon, Xibe	100	U+0067
+^d	d	dolbo, darama	Orok, Manchu, Negidal, Jurchen, Nanai_Bikin, Even, Evenki_Tutonchany, Evenki_Chiringda, Ulcha, Kur_Urmi, Udihe, Oroqen, Oroch, Xibe, Solon, Evenki_StonyTunguska, Nanai_Najkhin, Evenki_Teteya, Evenki_Khamnigan, Evenki_Strelka_Chun	100	U+005e U+0064
+^b	b	buː-, bəjə	Ulcha, Even, Jurchen, Evenki_Strelka_Chun, Manchu, Udihe, Xibe, Evenki_Tutonchany, Evenki_StonyTunguska, Negidal, Kur_Urmi, Nanai_Bikin, Evenki_Chiringda, Evenki_Teteya, Oroch, Orok, Evenki_Khamnigan, Solon, Oroqen, Nanai_Najkhin	100	U+005e U+0062
+u$	u	uku-, bu-	Jurchen, Manchu, Ulcha, Orok, Xibe, Hezhe, Evenki_Chiringda, Nanai_Najkhin, Kur_Urmi, Oroch, Nanai_Bikin, Evenki_Strelka_Chun, Solon, Evenki_Tutonchany, Evenki_Teteya, Evenki_Khamnigan, Even, Evenki_StonyTunguska, Udihe	100	U+0075 U+0024
+^i	i	iktə, ijə	Evenki_Chiringda, Evenki_Strelka_Chun, Oroch, Evenki_Tutonchany, Jurchen, Evenki_Teteya, Udihe, Hezhe, Oroqen, Orok, Evenki_Khamnigan, Negidal, Kur_Urmi, Xibe, Manchu, Ulcha, Even, Nanai_Bikin, Solon, Evenki_StonyTunguska, Nanai_Najkhin	100	U+005e U+0069
+^s	s	saː-, səːksə	Ulcha, Nanai_Bikin, Nanai_Najkhin, Oroch, Kur_Urmi, Manchu, Udihe, Evenki_StonyTunguska, Jurchen, Negidal, Xibe, Hezhe, Evenki_Khamnigan, Evenki_Strelka_Chun, Orok, Solon, Evenki_Tutonchany	100	U+005e U+0073
+o$	o	dolbo, oŋokto	Ulcha, Evenki_Teteya, Nanai_Bikin, Evenki_StonyTunguska, Evenki_Khamnigan, Kur_Urmi, Evenki_Tutonchany, Negidal, Nanai_Najkhin, Jurchen, Xibe, Evenki_Strelka_Chun, Udihe, Evenki_Chiringda, Hezhe, Manchu, Oroch, Even	100	U+006f U+0024
+^m	m	moː, muː	Hezhe, Orok, Kur_Urmi, Nanai_Bikin, Manchu, Xibe, Ulcha, Evenki_Tutonchany, Even, Evenki_StonyTunguska, Negidal, Jurchen, Oroqen, Oroch, Evenki_Strelka_Chun, Solon, Udihe, Evenki_Chiringda, Evenki_Teteya, Evenki_Khamnigan, Nanai_Najkhin	100	U+005e U+006d
+s	s	χasar, jasa	Nanai_Bikin, Oroch, Kur_Urmi, Nanai_Najkhin, Ulcha, Manchu, Even, Xibe, Evenki_StonyTunguska, Negidal, Jurchen, Orok, Evenki_Strelka_Chun, Udihe, Evenki_Chiringda, Evenki_Khamnigan, Solon, Hezhe	100	U+0073
+^n	n	naː, nuŋan	Solon, Kur_Urmi, Evenki_Khamnigan, Oroqen, Evenki_StonyTunguska, Negidal, Hezhe, Ulcha, Even, Nanai_Najkhin, Jurchen, Nanai_Bikin, Udihe, Orok, Xibe, Evenki_Chiringda, Oroch, Manchu, Evenki_Tutonchany, Evenki_Teteya, Evenki_Strelka_Chun	100	U+005e U+006e
+^u	u	ulə, umukta	Evenki_Strelka_Chun, Evenki_Tutonchany, Evenki_Chiringda, Evenki_Teteya, Xibe, Solon, Even, Udihe, Oroqen, Oroch, Manchu, Negidal, Nanai_Najkhin, Jurchen, Kur_Urmi, Orok, Ulcha, Nanai_Bikin, Evenki_Khamnigan, Evenki_StonyTunguska, Hezhe	100	U+005e U+0075
+e	e	ħenŋen, etergen	Even, Oroqen, Nanai_Bikin, Nanai_Najkhin, Negidal, Ulcha, Kur_Urmi, Evenki_Strelka_Chun, Evenki_StonyTunguska, Evenki_Teteya	100	U+0065
+^g	g	ga-, gun-	Evenki_StonyTunguska, Ulcha, Negidal, Udihe, Solon, Jurchen, Oroqen, Oroch, Evenki_Tutonchany, Evenki_Chiringda, Even, Evenki_Teteya, Evenki_Strelka_Chun, Xibe, Evenki_Khamnigan, Nanai_Bikin, Orok, Manchu, Nanai_Najkhin, Kur_Urmi	100	U+005e U+0067
+^a	a	aja, amŋa	Evenki_StonyTunguska, Negidal, Jurchen, Manchu, Kur_Urmi, Oroqen, Evenki_Strelka_Chun, Solon, Evenki_Tutonchany, Ulcha, Evenki_Teteya, Nanai_Bikin, Udihe, Oroch, Evenki_Chiringda, Nanai_Najkhin, Hezhe, Evenki_Khamnigan, Orok	100	U+005e U+0061
+x	x	wəixə, təxə	Jurchen, Xibe, Manchu, Negidal, Solon, Oroqen, Hezhe, Ulcha, Oroch, Orok, Udihe, Evenki_Tutonchany, Nanai_Najkhin, Nanai_Bikin	100	U+0078
+^ə	ə	əmə-, ədin-	Oroqen, Solon, Kur_Urmi, Evenki_StonyTunguska, Evenki_Tutonchany, Evenki_Chiringda, Negidal, Evenki_Strelka_Chun, Manchu, Udihe, Jurchen, Oroch, Evenki_Teteya, Evenki_Khamnigan, Nanai_Najkhin, Nanai_Bikin, Ulcha, Orok	100	U+005e U+0259
+^x	x	xədun-, xədu	Ulcha, Orok, Negidal, Nanai_Bikin, Udihe, Oroch, Hezhe, Solon, Jurchen, Xibe, Manchu, Evenki_Tutonchany, Nanai_Najkhin, Kur_Urmi, Evenki_Teteya	100	U+005e U+0078
+b	b	dolbo, gərbiː	Oroqen, Even, Kur_Urmi, Udihe, Manchu, Ulcha, Nanai_Najkhin, Evenki_Tutonchany, Evenki_Khamnigan, Evenki_Chiringda, Jurchen, Evenki_Teteya, Nanai_Bikin, Evenki_Strelka_Chun, Evenki_StonyTunguska, Negidal, Orok, Solon, Xibe, Oroch, Hezhe	100	U+0062
+^ʤ	dʒ	ʤawa-, ʤəgdə-	Kur_Urmi, Oroqen, Manchu, Ulcha, Oroch, Evenki_StonyTunguska, Negidal, Nanai_Najkhin, Even, Solon, Jurchen, Orok, Udihe	100	U+005e U+02a4
+ʧ	tʃ	iʧə-, anʧan	Ulcha, Nanai_Najkhin, Even, Manchu, Oroqen, Evenki_StonyTunguska, Jurchen, Kur_Urmi, Nanai_Bikin, Negidal, Oroch, Orok, Hezhe, Evenki_Tutonchany	100	U+02a7
+p	p	ʤapa-, ďapka	Orok, Nanai_Najkhin, Evenki_StonyTunguska, Ulcha, Evenki_Tutonchany, Evenki_Chiringda, Evenki_Strelka_Chun, Negidal, Oroch, Hezhe, Evenki_Teteya, Evenki_Khamnigan, Udihe, Oroqen, Kur_Urmi, Jurchen, Even, Solon	100	U+0070
+^h	h	haŋɲan, hərə	Evenki_Chiringda, Evenki_Tutonchany, Evenki_Teteya, Evenki_Strelka_Chun, Evenki_StonyTunguska, Evenki_Khamnigan	100	U+005e U+0068
+iː$	iː	gərbiː, niː	Evenki_Strelka_Chun, Evenki_Tutonchany, Evenki_Khamnigan, Evenki_Chiringda, Negidal, Evenki_StonyTunguska, Nanai_Najkhin, Evenki_Teteya, Udihe, Nanai_Bikin, Solon, Oroqen, Oroch, Ulcha, Even, Kur_Urmi	100	U+0069 U+02d0 U+0024
+e$	e	dele, irge	Even, Ulcha, Nanai_Bikin, Oroqen, Nanai_Najkhin, Solon, Evenki_Tutonchany, Negidal, Kur_Urmi, Evenki_Strelka_Chun	100	U+0065 U+0024
+q	q	χwosaqta, χosaqta	Ulcha, Kur_Urmi, Even, Nanai_Bikin, Orok, Nanai_Najkhin, Oroch, Xibe, Manchu, Hezhe	100	U+0071
+^k	k	kətə, kolto-	Oroqen, Hezhe, Even, Evenki_StonyTunguska, Evenki_Chiringda, Evenki_Teteya, Evenki_Strelka_Chun, Udihe, Evenki_Tutonchany, Evenki_Khamnigan, Orok, Negidal, Kur_Urmi, Ulcha, Oroch, Nanai_Bikin, Nanai_Najkhin, Jurchen	100	U+005e U+006b
+ɣ	ɣ	təɣə-, diɣin	Evenki_StonyTunguska, Evenki_Khamnigan, Solon, Negidal, Xibe, Udihe, Even, Oroqen, Orok, Evenki_Tutonchany	100	U+0263
+^o	o	oŋokto, ohikta	Kur_Urmi, Evenki_Chiringda, Evenki_StonyTunguska, Negidal, Evenki_Tutonchany, Nanai_Bikin, Evenki_Strelka_Chun, Manchu, Xibe, Evenki_Khamnigan, Evenki_Teteya, Ulcha, Udihe, Nanai_Najkhin, Even, Jurchen, Solon, Oroqen, Oroch	100	U+005e U+006f
+^ɲ	ɲ	ɲama, ɲamapt͡ʃu	Even, Ulcha, Evenki_Strelka_Chun, Oroch, Evenki_Tutonchany, Evenki_StonyTunguska, Negidal, Evenki_Khamnigan, Nanai_Bikin, Evenki_Chiringda, Evenki_Teteya, Kur_Urmi, Oroqen, Nanai_Najkhin, Hezhe, Udihe, Xibe	100	U+005e U+0272
+ɲ	ɲ	iɲəktə-, haŋɲan	Oroch, Evenki_Tutonchany, Ulcha, Negidal, Evenki_Teteya, Evenki_Strelka_Chun, Even, Nanai_Bikin, Evenki_Chiringda, Kur_Urmi, Evenki_Khamnigan, Udihe, Evenki_StonyTunguska, Nanai_Najkhin, Oroqen, Hezhe	100	U+0272
+aː	aː	taːn-, ŋaːlə	Oroch, Nanai_Najkhin, Nanai_Bikin, Evenki_Tutonchany, Ulcha, Oroqen, Negidal, Evenki_Chiringda, Evenki_Khamnigan, Evenki_StonyTunguska, Evenki_Teteya, Kur_Urmi, Solon, Udihe, Evenki_Strelka_Chun	100	U+0061 U+02d0
+w	w	ʤawa-, əwiː-	Ulcha, Evenki_StonyTunguska, Oroch, Even, Manchu, Evenki_Tutonchany, Negidal, Evenki_Strelka_Chun, Nanai_Najkhin, Orok, Oroqen, Evenki_Chiringda, Solon, Udihe, Hezhe, Evenki_Teteya, Evenki_Khamnigan, Nanai_Bikin	100	U+0077
+ɑ	ɑ	dɑrɑmɑ, xɑɣɘ_nɑn	Xibe, Orok, Hezhe	100	U+0251
+uː	uː	buː_, nəmkuːn	Evenki_Tutonchany, Orok, Manchu, Negidal, Evenki_Teteya, Evenki_Strelka_Chun, Evenki_Chiringda, Evenki_Khamnigan, Nanai_Najkhin, Ulcha, Oroqen, Evenki_StonyTunguska, Even, Nanai_Bikin, Solon, Udihe, Oroch, Kur_Urmi	100	U+0075 U+02d0
+ɔ	ɔ	ʤɔlɔ-dɔ-, ʤɔlɔ	Orok, Oroch, Oroqen, Hezhe, Udihe	95	U+0254
+ʤ	dʒ	təʤə, uʤu	Ulcha, Manchu, Nanai_Najkhin, Oroch, Kur_Urmi, Orok, Jurchen, Solon, Oroqen, Negidal, Even, Udihe, Evenki_StonyTunguska	95	U+02a4
+^f	f	fətə-, fərə	Manchu, Xibe, Nanai_Bikin, Jurchen, Kur_Urmi, Hezhe	93	U+005e U+0066
+aː$	aː	waː-, saː-	Evenki_Strelka_Chun, Oroch, Evenki_Chiringda, Evenki_Khamnigan, Evenki_Tutonchany, Negidal, Nanai_Najkhin, Ulcha, Evenki_Teteya, Oroqen, Udihe, Evenki_StonyTunguska, Nanai_Bikin, Kur_Urmi, Solon	91	U+0061 U+02d0 U+0024
+^ŋ	ŋ	ŋənə-, ŋaːlə	Udihe, Even, Orok, Evenki_StonyTunguska, Oroch, Evenki_Tutonchany, Ulcha, Oroqen, Negidal, Evenki_Teteya, Evenki_Strelka_Chun, Evenki_Chiringda, Kur_Urmi, Nanai_Najkhin	89	U+005e U+014b
+aˁ	aˤ	baˁldaˁ-waˁʧ-, ɲaˁŋsaˁmnaˁn	Even	87	U+0061 U+02c1
+uː$	uː	buː-, muː	Evenki_Tutonchany, Evenki_Chiringda, Evenki_Khamnigan, Ulcha, Negidal, Oroqen, Evenki_Teteya, Evenki_Strelka_Chun, Udihe, Evenki_StonyTunguska, Oroch, Orok, Nanai_Najkhin, Kur_Urmi, Manchu, Nanai_Bikin, Even, Solon	86	U+0075 U+02d0 U+0024
+ŋ$	ŋ	taŋ-, laŋ	Solon, Xibe, Even, Hezhe, Evenki_StonyTunguska, Negidal, Ulcha, Oroqen, Udihe, Evenki_Chiringda, Kur_Urmi, Nanai_Bikin, Orok	85	U+014b U+0024
+^χ	χ	χɔsjikta, χosaqta	Nanai_Bikin, Orok, Oroch, Kur_Urmi, Ulcha, Nanai_Najkhin, Manchu, Hezhe	80	U+005e U+03c7
+_$	_	sji_, bji_	Kur_Urmi, Solon, Udihe, Ulcha, Xibe, Oroqen, Evenki_StonyTunguska, Negidal, Nanai_Najkhin, Nanai_Bikin, Orok, Oroch, Even, Hezhe, Manchu, Jurchen	79	U+005f U+0024
+^ʧ	tʃ	ʧiktə, ʧaːgʤa	Even, Nanai_Najkhin, Ulcha, Orok, Evenki_StonyTunguska, Oroch, Kur_Urmi, Oroqen, Negidal, Hezhe, Manchu, Nanai_Bikin	78	U+005e U+02a7
+^ʃ	ʃ	ʃaŋgjijan, ʃiː_	Orok, Oroqen, Jurchen, Solon, Manchu, Evenki_Khamnigan	76	U+005e U+0283
+iː	iː	miːrə, biː_	Evenki_Tutonchany, Negidal, Solon, Even, Evenki_Khamnigan, Orok, Evenki_StonyTunguska, Evenki_Strelka_Chun, Oroqen, Evenki_Chiringda, Oroch, Ulcha, Evenki_Teteya, Udihe, Nanai_Najkhin	76	U+0069 U+02d0
+ɨ	ɨ	nuŋartɨn, tɨrgaɲiː	Evenki_StonyTunguska, Evenki_Strelka_Chun, Evenki_Teteya, Evenki_Chiringda, Evenki_Tutonchany	76	U+0268
+ʊ	ʊ	ʧʊŋŋʊrʊ, ʊmʊkta	Oroqen, Solon, Evenki_Khamnigan, Hezhe, Kur_Urmi	76	U+028a
+r$	r	ir-, əmər	Even, Solon, Evenki_StonyTunguska, Oroqen, Evenki_Chiringda, Evenki_Khamnigan, Evenki_Strelka_Chun, Evenki_Tutonchany, Xibe, Evenki_Teteya, Nanai_Najkhin, Kur_Urmi, Hezhe	75	U+0072 U+0024
+ɪ	ɪ	gɪʧɪ-gɪ-lɪ-, afjɪna-	Solon, Kur_Urmi, Evenki_Khamnigan	74	U+026a
+ɑ$	ɑ	dɑpɑ-, χɔʃiktɑ	Orok, Xibe, Hezhe	73	U+0251 U+0024
+oː	oː	moːl, doːldɨ-	Evenki_Tutonchany, Even, Evenki_Chiringda, Evenki_Strelka_Chun, Evenki_StonyTunguska, Nanai_Najkhin, Negidal, Evenki_Khamnigan, Evenki_Teteya, Ulcha, Nanai_Bikin, Udihe, Oroch, Kur_Urmi, Solon	69	U+006f U+02d0
+l$	l	moːl, dɨl	Even, Solon, Ulcha, Negidal, Xibe, Evenki_Teteya, Orok, Oroqen, Evenki_Chiringda, Nanai_Najkhin, Evenki_Tutonchany, Evenki_StonyTunguska, Kur_Urmi, Evenki_Strelka_Chun, Evenki_Khamnigan	65	U+006c U+0024
+oː$	oː	moː, mwoː	Nanai_Bikin, Udihe, Evenki_Tutonchany, Negidal, Evenki_Khamnigan, Kur_Urmi, Nanai_Najkhin, Manchu, Ulcha, Evenki_StonyTunguska, Evenki_Strelka_Chun, Evenki_Chiringda, Oroch, Evenki_Teteya, Even	64	U+006f U+02d0 U+0024
+^p	p	paː, pəːjə	Orok, Ulcha, Hezhe, Nanai_Najkhin, Udihe, Oroch, Even	63	U+005e U+0070
+ɪ$	ɪ	baldɪ-, taŋɪ-	Kur_Urmi, Solon, Evenki_Khamnigan	61	U+026a U+0024
+ks	ks	səːksə, tamnaksa	Evenki_StonyTunguska, Negidal, Nanai_Najkhin, Evenki_Khamnigan, Nanai_Bikin, Ulcha, Oroch, Kur_Urmi, Orok, Manchu, Evenki_Chiringda, Xibe	60	U+006b U+0073
+^e	e	enda, elan	Even, Kur_Urmi, Nanai_Bikin, Oroqen, Ulcha, Nanai_Najkhin, Negidal, Evenki_StonyTunguska, Evenki_Strelka_Chun	58	U+005e U+0065
+ɔ$	ɔ	ʤɔlɔ, dɔ	Orok, Oroch, Oroqen, Udihe	56	U+0254 U+0024
+t$	t	tət-, mut	Even, Evenki_StonyTunguska, Negidal, Evenki_Tutonchany, Solon, Evenki_Chiringda, Evenki_Strelka_Chun, Oroqen, Evenki_Teteya, Orok	56	U+0074 U+0024
+ɘ	ɘ	tʂhɘksɘnɘŋ, xɘlmɘn	Xibe	56	U+0258
+əː	əː	səːksə, gələːktə-	Nanai_Najkhin, Evenki_Khamnigan, Evenki_StonyTunguska, Orok, Solon, Ulcha, Oroch, Nanai_Bikin, Kur_Urmi, Evenki_Chiringda	56	U+0259 U+02d0
+.	<?>	da.ʋi.ra.xa, ə.ni.nə	Orok, Nanai_Najkhin, Kur_Urmi	55	U+002e
+^th	tʰ	thɑndɘ-, thadu	Hezhe, Xibe, Udihe	53	U+005e U+0074 U+0068
+χ	χ	qwoaχ-qwoaχ_biː, emaχa	Manchu, Nanai_Bikin, Hezhe, Nanai_Najkhin, Kur_Urmi, Orok	53	U+03c7
+f	f	oforo, afjɪna-	Nanai_Bikin, Hezhe, Kur_Urmi, Manchu, Udihe, Jurchen, Xibe	52	U+0066
+_	_	bwoɴal-bwoɴal_biː, tiː_timjæ-ɲi	Ulcha, Xibe, Nanai_Bikin, Nanai_Najkhin, Kur_Urmi, Evenki_Khamnigan, Manchu, Oroqen, Oroch, Udihe, Hezhe, Orok	51	U+005f
+kh	kʰ	ɲiaŋkhi, ikhthə-khən	Hezhe, Xibe	49	U+006b U+0068
+m$	m	um-, ďalum	Negidal, Even, Evenki_StonyTunguska, Oroqen, Evenki_Tutonchany, Evenki_Strelka_Chun, Solon, Evenki_Chiringda, Xibe, Orok, Udihe, Nanai_Najkhin, Evenki_Teteya, Nanai_Bikin	49	U+006d U+0024
+^w	w	waː-, wəixə	Udihe, Manchu, Ulcha, Nanai_Bikin, Nanai_Najkhin, Jurchen, Oroqen, Evenki_Chiringda, Evenki_Tutonchany, Negidal, Oroch, Hezhe, Evenki_Teteya, Evenki_Khamnigan, Evenki_Strelka_Chun, Orok, Solon	46	U+005e U+0077
+ʃ	ʃ	iʃi-, χɔʃiktɑ	Solon, Orok, Jurchen, Evenki_Khamnigan, Manchu, Oroqen, Evenki_Teteya	44	U+0283
+ɢ	ɢ	soŋɢo-, aŋɢo-	Nanai_Bikin, Manchu, Kur_Urmi, Nanai_Najkhin, Xibe, Orok	42	U+0262
+^ħ	ħ	ħiˁːndaˁ-, ħukle-	Even	42	U+005e U+0127
+aˁ$	aˤ	oˁstaˁ, uˁrtaˁ	Even	41	U+0061 U+02c1 U+0024
+th	tʰ	nixthənə-, ikhthələ	Hezhe, Xibe	41	U+0074 U+0068
+^ʣ	dz	ʣolo, ʣəgdə-	Udihe, Nanai_Bikin, Evenki_Khamnigan	40	U+005e U+02a3
+^ď	<?>	ďapka, ďiktə	Evenki_Strelka_Chun, Evenki_Tutonchany, Evenki_Chiringda, Evenki_Teteya	40	U+005e U+010f
+ɘ$	ɘ	thɑndɘ-, sɑvɘ-	Xibe	39	U+0258 U+0024
+^l	l	laŋ-laŋ, laŋ	Nanai_Bikin, Ulcha, Negidal, Xibe, Kur_Urmi, Solon, Oroqen, Udihe, Evenki_StonyTunguska, Evenki_Teteya, Manchu, Evenki_Tutonchany, Evenki_Chiringda, Nanai_Najkhin, Jurchen, Hezhe, Evenki_Strelka_Chun, Orok	39	U+005e U+006c
+eː	eː	beːγa, beːga	Even, Evenki_Strelka_Chun, Oroqen, Evenki_Tutonchany, Evenki_StonyTunguska, Evenki_Chiringda, Ulcha, Evenki_Teteya, Evenki_Khamnigan	38	U+0065 U+02d0
+^j	j	jasa, jɑ-	Xibe, Udihe, Manchu, Oroch, Oroqen, Ulcha, Jurchen, Hezhe, Nanai_Bikin, Orok, Evenki_StonyTunguska, Evenki_Teteya, Kur_Urmi, Solon	38	U+005e U+006a
+^ɢ	ɢ	ɢoro, ɢorfɪna-	Kur_Urmi, Manchu, Nanai_Bikin, Orok, Xibe, Nanai_Najkhin	36	U+005e U+0262
+γ	<?>	beːγa, dɨγin	Evenki_Strelka_Chun, Evenki_Chiringda, Evenki_Tutonchany, Evenki_Teteya	35	U+03b3
+t͡ʃ	tʃ	ɲamapt͡ʃu, it͡ʃə-	Evenki_Strelka_Chun, Evenki_Chiringda, Evenki_Tutonchany, Evenki_Teteya	35	U+0074 U+0361 U+0283
+h	h	ohikta, eːha	Evenki_Chiringda, Evenki_Tutonchany, Oroqen, Evenki_Teteya	35	U+0068
+iˁ	iˤ	ħuˁjiˁrkiˁʧ-, tiˁmiˁn	Even	35	U+0069 U+02c1
+j$	j	uj-, əj	Nanai_Najkhin, Ulcha, Negidal, Even, Xibe, Udihe, Oroqen, Evenki_Khamnigan, Kur_Urmi, Nanai_Bikin	32	U+006a U+0024
+ʉ	ʉ	hʉkʉsɨn-, hʉjʉkʉːn	Evenki_StonyTunguska	32	U+0289
+v	v	ivi-, sɑvɘ-	Xibe, Kur_Urmi	26	U+0076
+^iː	iː	iːktə, iːgə	Solon, Negidal, Evenki_Khamnigan, Evenki_Tutonchany, Oroch, Evenki_Teteya, Even, Oroqen, Nanai_Najkhin, Evenki_Strelka_Chun	26	U+005e U+0069 U+02d0
+xs	xs	t͡ʃowixsa, əxsə-	Evenki_Strelka_Chun, Evenki_Chiringda, Evenki_Tutonchany, Xibe, Hezhe, Negidal, Evenki_Teteya	24	U+0078 U+0073
+^oː	oː	oːkin, oːn	Negidal, Evenki_StonyTunguska, Evenki_Strelka_Chun, Evenki_Tutonchany, Evenki_Teteya, Evenki_Khamnigan, Udihe, Evenki_Chiringda, Kur_Urmi, Even	24	U+005e U+006f U+02d0
+ͻ	<?>	tͻndͻxʊŋ, xͻnːͻrɪŋ	Solon	23	U+037b
+^ɔ	ɔ	ɔmi-, ɔmɔ	Hezhe, Oroqen, Orok, Oroch	23	U+005e U+0254
+^ɑ	ɑ	ɑndu-, ɑmxɘ-	Xibe, Orok	23	U+005e U+0251
+ɣ$	ɣ	biˁ͡aˁɣ, ʤəɣ	Even, Solon, Oroqen, Evenki_StonyTunguska, Ulcha	22	U+0263 U+0024
+əː$	əː	ənəː, ʉləː-	Evenki_StonyTunguska, Evenki_Khamnigan, Udihe, Oroch, Solon, Evenki_Tutonchany, Orok	22	U+0259 U+02d0 U+0024
+əi	əi	wəixə, məirə	Manchu, Jurchen, Oroch, Nanai_Bikin, Hezhe, Orok	21	U+0259 U+0069
+w$	w	əbdəw-, aw-	Even, Negidal, Oroqen, Evenki_StonyTunguska, Evenki_Teteya, Evenki_Tutonchany, Evenki_Strelka_Chun, Solon	21	U+0077 U+0024
+^t͡ʃ	tʃ	t͡ʃowixsa, t͡ʃumurə	Evenki_Strelka_Chun, Evenki_Chiringda, Evenki_Teteya	20	U+005e U+0074 U+0361 U+0283
+æ$	æ	bjæ, jæ	Udihe, Oroch, Kur_Urmi	20	U+00e6 U+0024
+ɨ$	ɨ	tuktɨ-, huktɨ-	Evenki_StonyTunguska, Evenki_Teteya, Evenki_Strelka_Chun, Evenki_Tutonchany, Evenki_Chiringda	19	U+0268 U+0024
+eː$	eː	bjeː, seː-	Ulcha, Oroqen, Evenki_Chiringda, Nanai_Najkhin, Evenki_Strelka_Chun, Evenki_StonyTunguska, Solon	19	U+0065 U+02d0 U+0024
+^q	q	qaˁlbiˁn, qoˁraˁt	Nanai_Bikin, Kur_Urmi, Even, Hezhe, Ulcha, Xibe, Manchu	19	U+005e U+0071
+ʊ$	ʊ	dʊ, namʊ	Solon, Oroqen, Kur_Urmi, Nanai_Najkhin	19	U+028a U+0024
+uˁ	uˤ	muˁʧuˁl-, buˁŋɲuˁqaˁ	Even	19	U+0075 U+02c1
+k$	k	kik-, tik-	Xibe, Even, Evenki_StonyTunguska, Negidal, Oroqen, Evenki_Chiringda, Evenki_Teteya, Evenki_Khamnigan, Evenki_Strelka_Chun	19	U+006b U+0024
+oˁ	oˤ	boˁquˁ-, ʧoˁŋqaˁ-	Even	18	U+006f U+02c1
+s$	s	das-, is-	Xibe, Even, Negidal, Evenki_Tutonchany, Evenki_StonyTunguska, Evenki_Chiringda, Evenki_Strelka_Chun, Nanai_Bikin	18	U+0073 U+0024
+^ʊ	ʊ	ʊmʊkta, ʊʃɪtː	Solon, Oroqen, Evenki_Khamnigan	18	U+005e U+028a
+ɨː$	ɨː	antɨː, təɣəmɨː	Evenki_StonyTunguska, Evenki_Strelka_Chun, Evenki_Tutonchany, Evenki_Chiringda	18	U+0268 U+02d0 U+0024
+ɬ	ɬ	iɬgɑɬkhi, qɑɬʨhi	Hezhe	18	U+026c
+^ʦ	ts	ʦaːgʣa, ʦika-	Udihe, Evenki_Khamnigan, Nanai_Bikin	18	U+005e U+02a6
+^aː	aː	aːʃɪn-, aːɲʤi	Oroqen, Solon, Oroch, Evenki_Khamnigan, Evenki_Tutonchany, Udihe, Evenki_StonyTunguska, Ulcha, Nanai_Najkhin	18	U+005e U+0061 U+02d0
+^ɕ	ɕ	ɕi_, ɕi-	Hezhe, Xibe, Orok	17	U+005e U+0255
+ɵ	ɵ	bɵjə, hɵlɵktɵ	Negidal, Orok, Evenki_Strelka_Chun, Evenki_Chiringda, Evenki_Teteya	17	U+0275
+^aˁ	aˤ	aˁsiˁ, aˁtkiˁqaˁn	Even	16	U+005e U+0061 U+02c1
+ś	ś	ośikta, oːśikta	Evenki_Tutonchany, Evenki_Strelka_Chun, Evenki_Teteya, Evenki_Chiringda	16	U+015b
+oa	oa	qwoaχ-qwoaχ_biː, qoaχ-qoaχ_bjiː	Nanai_Najkhin, Kur_Urmi, Ulcha, Nanai_Bikin	16	U+006f U+0061
+ao	ao	taon-, daosʊn	Kur_Urmi, Nanai_Najkhin, Nanai_Bikin, Ulcha, Oroch	16	U+0061 U+006f
+ɵː$	ɵː	ugwidɵː, iːxɵː-	Negidal, Orok, Evenki_Tutonchany, Evenki_Strelka_Chun	15	U+0275 U+02d0 U+0024
+^ɨ	ɨ	ɨr-, ɨrɣɨ	Evenki_StonyTunguska	15	U+005e U+0268
+nː	nː	awdanːa, anːaɲɪː	Evenki_StonyTunguska, Evenki_Khamnigan, Orok, Solon, Ulcha	15	U+006e U+02d0
+^ś	ś	śilimkuːn, śuːka	Evenki_Strelka_Chun, Evenki_Tutonchany, Evenki_Chiringda	15	U+005e U+015b
+ʦ	ts	iʦə-, dəgdə-ʦə	Nanai_Bikin, Udihe, Evenki_Khamnigan, Jurchen	15	U+02a6
+iˁ$	iˤ	aˁsiˁ, aˁsiˁkiˁ	Even	15	U+0069 U+02c1 U+0024
+kː	kː	tikːi-, sjikːi-	Solon, Evenki_Khamnigan, Oroch, Orok	15	U+006b U+02d0
+ɔː$	ɔː	mɔː, tɔː	Oroch, Orok	14	U+0254 U+02d0 U+0024
+ɵː	ɵː	ŋɵːlə-, xulɵːptɵːn	Negidal, Evenki_Strelka_Chun, Evenki_Tutonchany	14	U+0275 U+02d0
+uə	uə	duəntə, duərə-	Nanai_Najkhin, Ulcha, Kur_Urmi, Udihe, Jurchen, Hezhe, Nanai_Bikin	14	U+0075 U+0259
+ʉ$	ʉ	dʉ, kʉptʉ-	Evenki_StonyTunguska	14	U+0289 U+0024
+ɛ	ɛ	ʋʲɛl.ʋʲɛl, xaɲɛn	Solon, Hezhe, Xibe, Orok	14	U+025b
+ʨh	ʨh	iʨhi-, qɑɬʨhi	Hezhe	14	U+02a8 U+0068
+p$	p	ďəp-, huːp-	Evenki_Tutonchany, Evenki_Strelka_Chun, Evenki_Chiringda, Negidal, Evenki_Khamnigan, Oroch, Orok	14	U+0070 U+0024
+ɒ$	ɒ	ləpərɒ, oŋoktɒ	Evenki_Tutonchany, Evenki_Teteya, Evenki_Strelka_Chun, Evenki_Chiringda	13	U+0252 U+0024
+^ɜ	ɜ	ɜmkhən, ɜmə-	Hezhe	13	U+005e U+025c
+z	z	xəzu-, kiamzə	Hezhe, Xibe	13	U+007a
+ui	ui	muiktə, duin	Nanai_Bikin, Orok, Nanai_Najkhin, Jurchen, Hezhe, Kur_Urmi, Manchu, Solon	13	U+0075 U+0069
+^ʨ	tɕ	ʨəfə-, ʨaʨhixə	Hezhe, Xibe	13	U+005e U+02a8
+ɛː	ɛː	sɛːn, gɛːʤi	Orok, Negidal, Oroqen	13	U+025b U+02d0
+^xw	xw	xwurmji, xwurwu-	Nanai_Najkhin	13	U+005e U+0078 U+0077
+ɔː	ɔː	dɔːxji, nɔːni	Orok, Oroch, Udihe	13	U+0254 U+02d0
+ʣ	dz	ɢanʣaʣa, ʦaːgʣa	Udihe, Nanai_Bikin, Hezhe	13	U+02a3
+ɛː$	ɛː	bɛː, sɛː-	Orok, Negidal, Oroqen, Nanai_Bikin	13	U+025b U+02d0 U+0024
+^ɪ	ɪ	ɪmanda, ɪmɪ-	Solon, Evenki_Khamnigan	13	U+005e U+026a
+ɴ	ɴ	bwoɴal-bwoɴal_biː, aɴma	Nanai_Najkhin	12	U+0274
+kʃ	kʃ	tukʃu, ʃɐːkʃə	Oroqen, Evenki_Teteya, Orok, Manchu	12	U+006b U+0283
+ɑː	ɑː	dɑːji, χɑːli	Orok	12	U+0251 U+02d0
+ɒː	ɒː	əlbəskɒːt-, umukɒːn	Evenki_Tutonchany, Evenki_Strelka_Chun, Evenki_Teteya	12	U+0252 U+02d0
+ɵ$	ɵ	ďukɵ, turukɵ	Evenki_Tutonchany, Orok, Evenki_Chiringda, Evenki_Strelka_Chun, Negidal, Evenki_Teteya	12	U+0275 U+0024
+^ʉ	ʉ	ʉləː-, ʉŋtʉ	Evenki_StonyTunguska	12	U+005e U+0289
+aˁː	aˤː	ħaˁːjuˁ-, oˁqaˁːt	Even	12	U+0061 U+02c1 U+02d0
+g$	g	dəg-, ďəg-	Evenki_Tutonchany, Evenki_Teteya, Evenki_Khamnigan, Evenki_Strelka_Chun, Evenki_Chiringda, Negidal, Xibe, Even	12	U+0067 U+0024
+tː$	tː	ʊʃɪtː, məːtː	Solon	12	U+0074 U+02d0 U+0024
+əi$	əi	nəi-, təi	Udihe, Jurchen, Oroch, Hezhe, Manchu, Nanai_Bikin	12	U+0259 U+0069 U+0024
+^ə$	ə	ə-	Oroqen, Udihe, Evenki_Tutonchany, Evenki_StonyTunguska, Evenki_Chiringda, Negidal, Oroch, Evenki_Teteya, Evenki_Khamnigan, Evenki_Strelka_Chun, Orok, Solon	12	U+005e U+0259 U+0024
+ia	ia	ɲiaŋkhi, ɲiamqhuli	Hezhe, Jurchen, Udihe, Oroch	11	U+0069 U+0061
+l̥	l̥	ʃil̥tu-, pul̥ʧi	Orok	11	U+006c U+0325
+ʉː	ʉː	sʉː_, bʉː_	Evenki_StonyTunguska	11	U+0289 U+02d0
+^ɘ	ɘ	ɘji-, ɘr	Xibe	11	U+005e U+0258
+^eː	eː	eːkun, eːha	Evenki_Tutonchany, Evenki_Teteya, Kur_Urmi, Evenki_Chiringda	11	U+005e U+0065 U+02d0
+^əː	əː	əːqtə, əːri-	Ulcha, Orok, Evenki_StonyTunguska, Oroch, Evenki_Khamnigan	11	U+005e U+0259 U+02d0
+ɐː$	ɐː	ulɐː-, ilədɐː-	Oroqen	11	U+0250 U+02d0 U+0024
+uˁː	uˤː	duˁːɫaˁn, nuˁːntaˁl-	Even	11	U+0075 U+02c1 U+02d0
+^oˁ	oˤ	oˁstaˁ, oˁqaˁːt	Even	10	U+005e U+006f U+02c1
+æ	æ	osæqta, tæsji	Udihe, Oroch, Kur_Urmi	10	U+00e6
+^tw	tw	twoɴdwo, twuŋən	Nanai_Najkhin	10	U+005e U+0074 U+0077
+x$	x	vix, fix	Xibe, Solon	10	U+0078 U+0024
+dː	dː	ədːu-, nədːə-	Solon	10	U+0064 U+02d0
+tː	tː	ʃuŋdɑtːɑ, χɑmdɑtːɑ	Solon, Orok, Negidal	10	U+0074 U+02d0
+gː	gː	igːu-, ʊgːʊ-	Solon, Oroch	10	U+0067 U+02d0
+uˁ$	uˤ	duˁ, tiˁ͡aˁruˁ-	Even	10	U+0075 U+02c1 U+0024
+œ	œ	sœmi-, fœnʥi-	Xibe, Evenki_Strelka_Chun	9	U+0153
+ea	ea	neaʤaχa, ɲwoɴean	Nanai_Najkhin, Kur_Urmi	9	U+0065 U+0061
+^oː$	oː	oː-, oː	Udihe, Evenki_Tutonchany, Evenki_StonyTunguska, Negidal, Nanai_Najkhin, Ulcha, Evenki_Teteya, Evenki_Khamnigan	9	U+005e U+006f U+02d0 U+0024
+^v	v	vix, vaː-	Xibe, Kur_Urmi, Evenki_StonyTunguska	9	U+005e U+0076
+y	y	adyliŋ-, nyɬxʊn	Xibe, Hezhe, Evenki_StonyTunguska	9	U+0079
+ɑː$	ɑː	puktɑː, ʃilːɑː	Orok	9	U+0251 U+02d0 U+0024
+əu	əu	dəuʤə, xudəuli	Jurchen, Orok, Evenki_StonyTunguska, Ulcha, Hezhe, Kur_Urmi, Nanai_Bikin	9	U+0259 U+0075
+ʧ$	tʃ	teɣeʧ-, muˁːlgaˁʧ-	Even	9	U+02a7 U+0024
+ʋ	ʋ	fʋŋzu, fʋɬgi-	Hezhe, Orok	8	U+028b
+iə$	iə	muliə, biə	Jurchen, Nanai_Najkhin, Oroch	8	U+0069 U+0259 U+0024
+^mw	mw	mwoː, mwujkji	Nanai_Najkhin	8	U+005e U+006d U+0077
+ŋː	ŋː	xəŋːə, aŋːaɲi	Oroqen, Oroch, Solon	8	U+014b U+02d0
+qs	qs	enoqsa, χojaqsa	Kur_Urmi, Nanai_Bikin, Oroch, Nanai_Najkhin	8	U+0071 U+0073
+ͻ$	<?>	mͻ, ͻɣͻ	Solon	8	U+037b U+0024
+qh	qh	xorqhuŋ, ɲiamqhuli	Hezhe	8	U+0071 U+0068
+oˁː	oˤː	ŋoˁːsuˁ-, noˁːdaˁ-	Even	8	U+006f U+02c1 U+02d0
+ai$	ai	sai-, bai-	Manchu, Udihe, Jurchen, Oroch	8	U+0061 U+0069 U+0024
+dw	dw	bildwo-bildwo_biː, ʧa-dwu	Nanai_Najkhin	8	U+0064 U+0077
+ia$	ia	ʃaŋgia, pia	Jurchen, Hezhe, Oroch	8	U+0069 U+0061 U+0024
+ʥ	dʑ	fœnʥi-, ɑʥig	Xibe	8	U+02a5
+^dʐ	ɖʐ	dʐɑvɘ-, dʐu	Xibe	8	U+005e U+0064 U+0290
+a̰$	a̰	ʣaːsa̰, ba̰-	Udihe	8	U+0061 U+0330 U+0024
+^χw	χw	χwosaqta, χwoːni_biː	Nanai_Najkhin	8	U+005e U+03c7 U+0077
+^aː$	aː	aː-	Oroch, Evenki_Tutonchany, Evenki_StonyTunguska, Evenki_Chiringda, Negidal, Evenki_Teteya, Evenki_Strelka_Chun	8	U+005e U+0061 U+02d0 U+0024
+ɐː	ɐː	dilkɐːʧɐːn, ʃɐːkʃə	Oroqen	7	U+0250 U+02d0
+bː	bː	gəbːi, sabːi	Oroch, Solon	7	U+0062 U+02d0
+ɒː$	ɒː	hukulɒː-, kumkɒː	Evenki_Strelka_Chun, Evenki_Teteya, Evenki_Tutonchany	7	U+0252 U+02d0 U+0024
+ll	ll	ollo, ulliː-	Evenki_Strelka_Chun, Evenki_Teteya	7	U+006c U+006c
+^dw	dw	dwo, dwuərə-	Nanai_Najkhin	7	U+005e U+0064 U+0077
+iɛ	iɛ	ɕiɛn, niɛni-	Hezhe	7	U+0069 U+025b
+^sw	sw	swoːgʤwon, swuːktwu	Nanai_Najkhin	7	U+005e U+0073 U+0077
+^bw	bw	bwoɴal-bwoɴal_biː, bwojale-	Nanai_Najkhin	7	U+005e U+0062 U+0077
+ŋs	ŋs	jaŋsaʧo, qoːŋsa	Nanai_Bikin, Ulcha, Oroch, Kur_Urmi, Even, Manchu	7	U+014b U+0073
+^uː	uː	uːmji, uːgu-	Evenki_Teteya, Solon, Evenki_Chiringda, Oroch, Evenki_Strelka_Chun	7	U+005e U+0075 U+02d0
+ɪː	ɪː	ʃɪːn, kʊlɪːn	Evenki_Khamnigan, Solon	6	U+026a U+02d0
+ʉː$	ʉː	həkʉː, ədʉː	Evenki_StonyTunguska	6	U+0289 U+02d0 U+0024
+mw	mw	omwoqta, simwuksə	Nanai_Najkhin	6	U+006d U+0077
+khs	khs	ərkhsi-, aptakhsə	Hezhe	6	U+006b U+0068 U+0073
+æː$	æː	bjæː, noŋgjæː	Nanai_Bikin	6	U+00e6 U+02d0 U+0024
+ɕ	ɕ	xuɑɕi-, uləɕi-	Hezhe, Xibe	6	U+0255
+ui$	ui	ʤui, dui	Ulcha, Udihe, Jurchen, Manchu, Orok	6	U+0075 U+0069 U+0024
+q$	q	baˁɣaˁq-, taˁq	Even, Xibe	6	U+0071 U+0024
+ɨː	ɨː	ʉɣɨːdəː-, tɨːɲiwə	Evenki_StonyTunguska, Evenki_Tutonchany, Evenki_Strelka_Chun	6	U+0268 U+02d0
+^iˁ	iˤ	iˁnŋet, iˁrquˁn-	Even	6	U+005e U+0069 U+02c1
+ɪː$	ɪː	doːldɪː-, čɪkaːlɪː-	Evenki_Khamnigan	6	U+026a U+02d0 U+0024
+qː	qː	ɔqːi, paqːə-	Oroch, Orok, Hezhe	6	U+0071 U+02d0
+nn	nn	abdanna, imanna	Evenki_Strelka_Chun, Evenki_Teteya	6	U+006e U+006e
+ʊɔː	ʊɔː	dʊɔːlde-, tʊɔːraɣ	Oroqen	6	U+028a U+0254 U+02d0
+æː	æː	ɲæːlo, foljɢæːn	Nanai_Bikin	6	U+00e6 U+02d0
+ɑu	ɑu	dɑuʃu, ɑptɑuli	Orok	6	U+0251 U+0075
+dʐ	ɖʐ	udʐɑn, sundʐɑ	Xibe	6	U+0064 U+0290
+iˁ͡aˁ	iˤaˤ	biˁ͡aˁɣ, tiˁ͡aˁruˁ-	Even	6	U+0069 U+02c1 U+0361 U+0061 U+02c1
+ie	ie	djielji-, ħieweɲ-	Udihe, Even	6	U+0069 U+0065
+rs	rs	ɲelbarse, bwojworsiː	Nanai_Najkhin, Ulcha, Kur_Urmi, Nanai_Bikin	6	U+0072 U+0073
+ø$	ø	ŋø, mø	Udihe, Evenki_Tutonchany	5	U+00f8 U+0024
+uə$	uə	ʤwuə, mwuə	Jurchen, Nanai_Najkhin	5	U+0075 U+0259 U+0024
+ʃː	ʃː	əməʃːi, səːʃːi	Solon	5	U+0283 U+02d0
+d$	d	gad-, gɪrand	Solon, Even	5	U+0064 U+0024
+^ʥ	dʑ	ʥi-, ʥirɑm	Xibe	5	U+005e U+02a5
+^uˁ	uˤ	uˁrtaˁ, uˁdaˁn	Even	5	U+005e U+0075 U+02c1
+lw	lw	ʤilwuəktə, ʤwolwo	Nanai_Najkhin	5	U+006c U+0077
+ɲ$	ɲ	ħieweɲ-, χoɲ	Even, Evenki_Teteya, Nanai_Bikin	5	U+0272 U+0024
+^ɢw	ɢw	ɢworwopʧi, ɢwoɢda	Nanai_Najkhin	5	U+005e U+0262 U+0077
+^ʤw	ʤw	ʤwolwo, ʤwuə	Nanai_Najkhin	5	U+005e U+02a4 U+0077
+ʧː	tʃː	ʤɔʧːɔ, ɢɔʧːuːli	Orok	5	U+02a7 U+02d0
+ǝ$	ə	hǝgdǝ, t͡ʃumurǝ	Evenki_Chiringda, Evenki_Strelka_Chun	5	U+01dd U+0024
+ɛ$	ɛ	ʤaŋgalɛ, ʨapkharɛ	Solon, Hezhe	5	U+025b U+0024
+ʨ	tɕ	sʊnʨa, thəʨə	Xibe, Hezhe	5	U+02a8
+ua$	ua	ŋua-, agua	Udihe, Jurchen	5	U+0075 U+0061 U+0024
+ai	ai	sain, baiʃi	Manchu, Jurchen	5	U+0061 U+0069
+ͻː	<?>	sͻːrɪŋ, dͻːldi-	Solon	5	U+037b U+02d0
+č	č	ɲiːči, napčɪ	Evenki_Khamnigan, Orok	5	U+010d
+ɫ	lˠ	duˁːɫaˁn, ʧuˁːɫaˁŋraˁ	Even	5	U+026b
+iɑ	iɑ	ɲiɑmɘn, viɑli-	Xibe	5	U+0069 U+0251
+^ai	ai	aibji-, ainaːpti	Manchu, Oroch	5	U+005e U+0061 U+0069
+b$	b	eme-b-, ʤeb-	Even, Evenki_StonyTunguska, Oroqen	5	U+0062 U+0024
+^pw	pw	pwuɲəktən, pwujkwu-	Nanai_Najkhin	5	U+005e U+0070 U+0077
+iə	iə	niəma, niəŋia	Jurchen, Nanai_Najkhin, Hezhe	5	U+0069 U+0259
+rw	rw	xwurwu-, ɢworwo	Nanai_Najkhin	4	U+0072 U+0077
+mː	mː	amːa, ɲimːə-	Oroch, Orok, Solon	4	U+006d U+02d0
+ms	ms	gjiamsa, geramsa	Ulcha, Even, Oroch	4	U+006d U+0073
+bw	bw	bwoɴal-bwoɴal_biː, gərbwu	Nanai_Najkhin	4	U+0062 U+0077
+lː	lː	ʃilːɑː, ʉlːə	Evenki_StonyTunguska, Orok, Solon	4	U+006c U+02d0
+^ɵ	ɵ	ɵmun, ɵj	Negidal, Evenki_Tutonchany	4	U+005e U+0275
+^ui$	ui	ui-, ui	Nanai_Najkhin, Udihe, Nanai_Bikin, Orok	4	U+005e U+0075 U+0069 U+0024
+^əi$	əi	əi, əi-	Udihe, Jurchen, Nanai_Bikin, Oroch	4	U+005e U+0259 U+0069 U+0024
+^ʨh	ʨh	ʨhuŋəli, ʨhiphkha	Hezhe	4	U+005e U+02a8 U+0068
+pː	pː	səpːən-, ʧipːa-	Oroch	4	U+0070 U+02d0
+ae$	ae	ʧemae, nae	Nanai_Bikin	4	U+0061 U+0065 U+0024
+^ɛː	ɛː	ɛːsa, ɛːma	Negidal	4	U+005e U+025b U+02d0
+əu$	əu	siləu, ʃitəu	Ulcha, Oroch, Orok	4	U+0259 U+0075 U+0024
+tʂh	tʂh	ontʂho, bɘtʂhɘ-	Xibe	4	U+0074 U+0282 U+0068
+ea$	ea	bea, aːŋea	Nanai_Najkhin	4	U+0065 U+0061 U+0024
+tw	tw	swuːktwu, twutwu-	Nanai_Najkhin	4	U+0074 U+0077
+tʂ	ʈʂ	ʨitʂkhɘ, sɘtʂk	Xibe	4	U+0074 U+0282
+^gw	gw	gwade-, gwumwuxjin	Nanai_Najkhin, Ulcha	4	U+005e U+0067 U+0077
+^oˁː	oˤː	oˁːn, oˁːq	Even	4	U+005e U+006f U+02c1 U+02d0
+^kh	kʰ	khɘtkhɘnɘ-, khœtxun	Xibe, Hezhe	4	U+005e U+006b U+0068
+^ao$	ao	ao-	Nanai_Najkhin, Nanai_Bikin	4	U+005e U+0061 U+006f U+0024
+uu$	uː	duluu, xaluu	Jurchen	4	U+0075 U+0075 U+0024
+iɑ$	iɑ	biɑ, ɘrxɘm_giɑ-	Xibe	4	U+0069 U+0251 U+0024
+ď	<?>	təďə, igďama	Evenki_Tutonchany, Evenki_Teteya, Evenki_Chiringda, Evenki_Strelka_Chun	4	U+010f
+ao$	ao	ʤao-, boelao-	Nanai_Bikin, Kur_Urmi	3	U+0061 U+006f U+0024
+ɣʷ	ɣʷ	oɣʷo, toɣʷo	Negidal	3	U+0263 U+02b7
+pw	pw	upwultə, twompwo-	Nanai_Najkhin	3	U+0070 U+0077
+ns	ns	otonsjɪ-, puːnsu-	Ulcha, Kur_Urmi, Solon	3	U+006e U+0073
+mm	mm	amma, ɲimməŋkiː	Evenki_Teteya	3	U+006d U+006d
+iu$	iu	diu, sjiu	Ulcha, Jurchen, Nanai_Bikin	3	U+0069 U+0075 U+0024
+v$	v	gɘv, ŋənə-v-	Xibe, Evenki_StonyTunguska	3	U+0076 U+0024
+e̞ː	e̞ː	ʃe̞ːŋ, me̞ːgaŋ	Solon	3	U+0065 U+031e U+02d0
+ɴw	ɴw	aɴwo-, mwoɴwon	Nanai_Najkhin	3	U+0274 U+0077
+ɟ	ɟ	bal.ɟi, pi.ɟi.ra	Orok	3	U+025f
+^o$	o	o-	Evenki_Chiringda, Nanai_Bikin, Evenki_Strelka_Chun	3	U+005e U+006f U+0024
+ʊː	ʊː	nʊːda-, awgʊːn	Evenki_Khamnigan, Solon	3	U+028a U+02d0
+ua	ua	nua-nji_, nuati	Udihe	3	U+0075 U+0061
+ə:$	əː	urə:, ɲuːriktə:	Evenki_Strelka_Chun	3	U+0259 U+003a U+0024
+ǝ	ə	hǝnŋǝn, hǝgdǝ	Evenki_Chiringda, Evenki_Strelka_Chun	3	U+01dd
+^ɲw	ɲw	ɲwoani_, ɲwoɴean	Nanai_Najkhin	3	U+005e U+0272 U+0077
+^ai$	ai	ai	Manchu, Hezhe	3	U+005e U+0061 U+0069 U+0024
+ɑi$	ɑi	dɑi-, χɑi	Orok, Xibe	3	U+0251 U+0069 U+0024
+^iˁ͡aˁ	iˤaˤ	iˁ͡aˁq, iˁ͡aˁqaˁwːuˁ	Even	3	U+005e U+0069 U+02c1 U+0361 U+0061 U+02c1
+kw	kʷ	kwax-kwax_bji, pwujkwu-	Nanai_Najkhin, Ulcha	3	U+006b U+0077
+a̰i$	a̰i	sa̰i, xa̰i	Udihe	3	U+0061 U+0330 U+0069 U+0024
+xʃ	xʃ	irɵxʃə, imuːxʃə	Evenki_Teteya	3	U+0078 U+0283
+^ɔː	ɔː	ɔːɲi, ɔːktɔ	Oroch	3	U+005e U+0254 U+02d0
+iˁː	iˤː	ħiˁːndaˁ-, ʧiˁːmʧaˁ-	Even	3	U+0069 U+02c1 U+02d0
+^ͻ	<?>	ͻɣͻ, ͻlgͻxʊŋ	Solon	3	U+005e U+037b
+oo	oː	loo-loo_bji, moomi	Ulcha, Orok	3	U+006f U+006f
+ʊɔː$	ʊɔː	mʊɔː	Oroqen	3	U+028a U+0254 U+02d0 U+0024
+oˁː$	oˤː	moˁː	Even	3	U+006f U+02c1 U+02d0 U+0024
+gw	gw	gələ-gwu-, ugwidɵː	Nanai_Najkhin, Negidal	3	U+0067 U+0077
+^aˁː	aˤː	aˁːŋiˁliˁ-, aˁːŋaˁ-	Even	3	U+005e U+0061 U+02c1 U+02d0
+β	β	ʣaβa-, aβu	Udihe, Evenki_Khamnigan	3	U+03b2
+nʃ	nʃ	uːnʃi-, tənʃi-	Solon	3	U+006e U+0283
+wː	wː	iˁ͡aˁqaˁwːuˁ, aˁwːuˁw	Even, Orok	3	U+0077 U+02d0
+oe	oe	toeŋɢa, boelao-	Nanai_Bikin, Nanai_Najkhin	3	U+006f U+0065
+ae	ae	waeʦa-, baeso	Nanai_Bikin	3	U+0061 U+0065
+iu	iu	sjiulə, sjiun	Hezhe, Kur_Urmi, Nanai_Bikin	3	U+0069 U+0075
+^əi	əi	əisi-, əikpəsji-	Udihe, Nanai_Bikin, Oroch	3	U+005e U+0259 U+0069
+uɑ$	uɑ	guɑ, thuɑ	Xibe	2	U+0075 U+0251 U+0024
+^ie	ie	iet-, ienŋe	Even	2	U+005e U+0069 U+0065
+ə:	əː	tə:k:ə, xə:.kə	Orok	2	U+0259 U+003a
+^qh	qh	qhɔmʨhu, qhuməkhə	Hezhe	2	U+005e U+0071 U+0068
+ɫ$	lˠ	ŋaˁːɫ, qoˁːɫ-	Even	2	U+026b U+0024
+ɒ	ɒ	dɨlkɒn, huloptɒn	Evenki_Teteya, Evenki_Chiringda	2	U+0252
+o̰$	o̰	gobo̰, ʦofo̰	Udihe	2	U+006f U+0330 U+0024
+^ɔː$	ɔː	ɔː, ɔː-	Oroch, Orok	2	U+005e U+0254 U+02d0 U+0024
+^nw	nw	nwuːʧi, nwuktə	Nanai_Najkhin	2	U+005e U+006e U+0077
+aːe$	aːe	daːe	Ulcha, Nanai_Bikin	2	U+0061 U+02d0 U+0065 U+0024
+ə́	ə́	hə́gdɨ:, ɲə́mumə	Evenki_Strelka_Chun, Evenki_Chiringda	2	U+0259 U+0301
+i:$	iː	bi:, ɲi:	Orok, Evenki_Strelka_Chun	2	U+0069 U+003a U+0024
+^tʂh	tʂh	tʂhɘksɘnɘŋ, tʂhɑrɘ-	Xibe	2	U+005e U+0074 U+0282 U+0068
+^œ	œ	œrœktə, œmi-	Xibe, Evenki_Strelka_Chun	2	U+005e U+0153
+ŋŋ	ŋŋ	ʃaŋŋan, ʧʊŋŋʊrʊ	Oroqen	2	U+014b U+014b
+tt	tt	at.ta, oːtta	Orok, Negidal	2	U+0074 U+0074
+^ɑi$	ɑi	ɑi	Xibe	2	U+005e U+0251 U+0069 U+0024
+qq	qq	qoaq-qoaq_, ŋɔjɔqqɔ	Kur_Urmi, Orok	2	U+0071 U+0071
+aˁː$	aˤː	maˁː-, ħaˁː-	Even	2	U+0061 U+02c1 U+02d0 U+0024
+io	io	njiowaŋgjijan, nioŋun	Manchu, Xibe	2	U+0069 U+006f
+oi	oi	ʤoisji, boiχon	Manchu, Oroch	2	U+006f U+0069
+^kw	kʷ	kwax-kwax_bji, kwuːʧi-	Nanai_Najkhin, Ulcha	2	U+005e U+006b U+0077
+ʤw	ʤw	swoːgʤwon, ɢaːʤwo-	Nanai_Najkhin	2	U+02a4 U+0077
+^ɴw	ɴw	ɴwoamji, ɴwonemji	Nanai_Najkhin	2	U+005e U+0274 U+0077
+^ɪː	ɪː	ɪːsal	Evenki_Khamnigan, Solon	2	U+005e U+026a U+02d0
+ɣː	ɣː	iɣːi, iɣːə	Negidal	2	U+0263 U+02d0
+bs	bs	kubsurə-, dabsun	Manchu	2	U+0062 U+0073
+sw	sw	daoswon, ʧaːswo-	Nanai_Najkhin	2	U+0073 U+0077
+ws	ws	dawso, dawsʊn	Ulcha, Evenki_Khamnigan	2	U+0077 U+0073
+vs	vs	ɘvsɘ-, dɑvsun	Xibe	2	U+0076 U+0073
+^ʊɔː	ʊɔː	ʊɔːn, ʊɔːʃekta	Oroqen	2	U+005e U+028a U+0254 U+02d0
+^d$	d	d	Xibe	2	U+005e U+0064 U+0024
+qw	qw	selqwo-, qwoaχ-qwoaχ_biː	Nanai_Najkhin	2	U+0071 U+0077
+^ɛ	ɛ	ɛlin, ɛthiŋ	Xibe	2	U+005e U+025b
+^tʐ	tʐ	tʐafa-, tʐukhə	Hezhe	2	U+005e U+0074 U+0290
+ɔ:$	ɔː	to.rɔ:, go.lɔ:	Orok	2	U+0254 U+003a U+0024
+^ae	ae	aeda-, aeŋaɲa	Nanai_Bikin	2	U+005e U+0061 U+0065
+uɑ	uɑ	xuɑʥi-, xuɑɕi-	Xibe	2	U+0075 U+0251
+jː	jː	ijːə, bɵjːɵu-	Orok, Solon	2	U+006a U+02d0
+ii$	iː	iŋinjii, gjiljii	Udihe	2	U+0069 U+0069 U+0024
+ə̰$	ə̰	nəməʦə̰, nəmnəsə̰	Udihe	2	U+0259 U+0330 U+0024
+js	js	xojsa, məjsji-	Ulcha, Udihe	2	U+006a U+0073
+jw	jw	bwojworsiː, ʤwojworsiː	Nanai_Najkhin	2	U+006a U+0077
+iˁ͡aˁ$	iˤaˤ	ħiˁ͡aˁ-, giˁ͡aˁ	Even	2	U+0069 U+02c1 U+0361 U+0061 U+02c1 U+0024
+ei	ei	sutulaqtein, seiwi-	Oroch	2	U+0065 U+0069
+io$	io	nio, njijanjio-	Hezhe, Manchu	2	U+0069 U+006f U+0024
+^ń	ń	ńimŋə-	Evenki_Chiringda, Evenki_Strelka_Chun	2	U+005e U+0144
+ʧw	ʧw	ukʧwuŋ-ukʧwuŋ_biː	Nanai_Najkhin	2	U+02a7 U+0077
+ɔi$	ɔi	ɢɔi, χɔi-	Oroch, Orok	2	U+0254 U+0069 U+0024
+ŋɕ	ŋɕ	χuŋɕi-, nuŋɕi	Hezhe, Xibe	2	U+014b U+0255
+^ia	ia	ia-du, iamaərin	Hezhe	2	U+005e U+0069 U+0061
+ɔ:	ɔː	ɲɔ:g.dɔ, ŋɔ:.tɔ-	Orok	2	U+0254 U+003a
+œː$	œː	tɨjœː	Evenki_Chiringda, Evenki_Strelka_Chun	2	U+0153 U+02d0 U+0024
+oa$	oa	boa, bwoa	Nanai_Najkhin, Oroch	2	U+006f U+0061 U+0024
+^au	au	auli-, aul-	Udihe, Negidal	2	U+005e U+0061 U+0075
+…	<?>	nɔː-…-ʧi, ɲwoan-…-ʧi	Nanai_Najkhin, Orok	2	U+2026
+ɲː	ɲː	iɲːi	Negidal	1	U+0272 U+02d0
+ɸs	ɸs	girɑpɸsɑ	Orok	1	U+0278 U+0073
+k:	kː	tə:k:ə	Orok	1	U+006b U+003a
+o:$	oː	kumko:	Evenki_Chiringda	1	U+006f U+003a U+0024
+ls	ls	ulsə	Ulcha	1	U+006c U+0073
+^ɴ	ɴ	ɴaːla	Nanai_Najkhin	1	U+005e U+0274
+^?	<?>	?_ujmikəːktə	Evenki_Khamnigan	1	U+005e U+003f
+ua̰i$	ua̰i	kua̰i	Udihe	1	U+0075 U+0061 U+0330 U+0069 U+0024
+^ʊɔː$	ʊɔː	ʊɔː-	Oroqen	1	U+005e U+028a U+0254 U+02d0 U+0024
+^ɔu$	ɔu	ɔu-	Hezhe	1	U+005e U+0254 U+0075 U+0024
+^oˁː$	oˤː	oˁː-	Even	1	U+005e U+006f U+02c1 U+02d0 U+0024
+^ͻː$	<?>	ͻː-	Solon	1	U+005e U+037b U+02d0 U+0024
+aːi$	aːi	daːi	Nanai_Najkhin	1	U+0061 U+02d0 U+0069 U+0024
+ɨ:$	ɨː	hə́gdɨ:	Evenki_Chiringda	1	U+0268 U+003a U+0024
+^ie$	ie	ie	Udihe	1	U+005e U+0069 U+0065 U+0024
+^ɜi$	ɜi	ɜi	Hezhe	1	U+005e U+025c U+0069 U+0024
+^ͻʃ	<?>	ͻʃxͻŋ	Solon	1	U+005e U+037b U+0283
+a̰	a̰	pa̰ljiɣji	Udihe	1	U+0061 U+0330
+^u$	u	u	Jurchen	1	U+005e U+0075 U+0024
+^ʂ	ʂ	ʂaŋniɛn	Hezhe	1	U+005e U+0282
+^ia$	ia	ia	Hezhe	1	U+005e U+0069 U+0061 U+0024
+ə̰u	ə̰u	jə̰u_	Udihe	1	U+0259 U+0330 U+0075
+^ó	ó	ómakta	Evenki_Chiringda	1	U+005e U+00f3
+^rs	rs	rsə-	Hezhe	1	U+005e U+0072 U+0073
+^a$	a	a-	Nanai_Najkhin	1	U+005e U+0061 U+0024
+^e$	e	e-	Even	1	U+005e U+0065 U+0024
+^ae$	ae	ae	Nanai_Bikin	1	U+005e U+0061 U+0065 U+0024
+^aia$	aia	aia	Udihe	1	U+005e U+0061 U+0069 U+0061 U+0024
+nː$	nː	abdanː	Solon	1	U+006e U+02d0 U+0024
+c	c	ɢoci-	Xibe	1	U+0063
+u:$	uː	puk.tu:	Orok	1	U+0075 U+003a U+0024
+f$	f	ʣəf-	Nanai_Bikin	1	U+0066 U+0024
+pː$	pː	ďəpː-	Evenki_Teteya	1	U+0070 U+02d0 U+0024
+ou$	ou	bou	Udihe	1	U+006f U+0075 U+0024
+^uː$	uː	uː-	Oroqen	1	U+005e U+0075 U+02d0 U+0024
+xɕ	xɕ	fɘxɕi-	Xibe	1	U+0078 U+0255
+aˁ́	áˤ	iˁ͡aˁsaˁ́l	Even	1	U+0061 U+02c1 U+0301
+xː	xː	axːe-	Oroqen	1	U+0078 U+02d0
+eo	eo	ʧeoqon	Kur_Urmi	1	U+0065 U+006f
+au	au	tauzən	Hezhe	1	U+0061 U+0075
+ͻːs	<?>	dͻːsʊŋ	Solon	1	U+037b U+02d0 U+0073
+^ͻːʃ	<?>	ͻːʃɪtː	Solon	1	U+005e U+037b U+02d0 U+0283
+kh$	kʰ	thakhthakh	Hezhe	1	U+006b U+0068 U+0024
+^qw	qw	qwoaχ-qwoaχ_biː	Nanai_Najkhin	1	U+005e U+0071 U+0077
+əə$	əː	təə-	Evenki_Teteya	1	U+0259 U+0259 U+0024
+^ɑː	ɑː	ɑːnʤɛː	Orok	1	U+005e U+0251 U+02d0
+^aia	aia	aiaŋaʣa	Udihe	1	U+005e U+0061 U+0069 U+0061
+^əu	əu	əusə	Jurchen	1	U+005e U+0259 U+0075
+^au$	au	au	Jurchen	1	U+005e U+0061 U+0075 U+0024
+ɘi	ɘi	mɘix	Xibe	1	U+0258 U+0069
+á	á	anŋániː	Evenki_Chiringda	1	U+00e1
+œː	œː	ojœːt-	Evenki_Strelka_Chun	1	U+0153 U+02d0
+ó	ó	oldón	Evenki_Chiringda	1	U+00f3
+γ$	<?>	ďeγ	Evenki_Strelka_Chun	1	U+03b3 U+0024
+qʃ	qʃ	ʃaqʃaχa	Manchu	1	U+0071 U+0283
+^ŋw	ŋw	ŋwujrə	Nanai_Najkhin	1	U+005e U+014b U+0077
+aːo$	aːo	jaːo	Oroch	1	U+0061 U+02d0 U+006f U+0024
+ww	ww	awwu	Negidal	1	U+0077 U+0077
+ʂ	ʂ	uʂa-	Hezhe	1	U+0282
+əiə$	əiə	nəkəiə	Jurchen	1	U+0259 U+0069 U+0259 U+0024
+ɔi	ɔi	χɔisɑ	Orok	1	U+0254 U+0069
+yi$	yi	ʣyi	Udihe	1	U+0079 U+0069 U+0024
+ʃ$	ʃ	təʃ	Orok	1	U+0283 U+0024
+ps	ps	tapse-gda	Ulcha	1	U+0070 U+0073
+^ɑu$	ɑu	ɑu-	Orok	1	U+005e U+0251 U+0075 U+0024
+e̞$	e̞	be̞	Solon	1	U+0065 U+031e U+0024
+éː	éː	béːγa	Evenki_Chiringda	1	U+00e9 U+02d0
+i:	iː	bagdari:n	Evenki_Strelka_Chun	1	U+0069 U+003a
+sː	sː	tʊsːan-	Solon	1	U+0073 U+02d0
+kː$	kː	dəwikː-	Solon	1	U+006b U+02d0 U+0024
+ɕh	ɕh	puxaɕhən	Hezhe	1	U+0255 U+0068
+^əiə$	əiə	əiə-	Udihe	1	U+005e U+0259 U+0069 U+0259 U+0024
+=	<?>	oˁːqiˁ=daˁ	Even	1	U+003d
+^lw	lw	lwuŋbə-	Nanai_Najkhin	1	U+005e U+006c U+0077
+ph	pʰ	ʨhiphkha	Hezhe	1	U+0070 U+0068
+ḛ	ḛ	ʦifuŋḛi	Udihe	1	U+1e1b
+ɵ:	ɵː	mɵ:.tə.mə	Orok	1	U+0275 U+003a
+uiː$	uiː	duiː	Nanai_Bikin	1	U+0075 U+0069 U+02d0 U+0024
+ii	iː	diin	Kur_Urmi	1	U+0069 U+0069
+^ʋʲ	ʋʲ	ʋʲɛl.ʋʲɛl	Orok	1	U+005e U+028b U+02b2
+ʋʲ	ʋʲ	ʋʲɛl.ʋʲɛl	Orok	1	U+028b U+02b2
+nw	nw	enwoksa	Nanai_Najkhin	1	U+006e U+0077
+oɪ$	oɪ	χoɪ-	Kur_Urmi	1	U+006f U+026a U+0024
+^ui	ui	uirʧigə-tu-	Hezhe	1	U+005e U+0075 U+0069
+oe$	oe	ɢoe	Nanai_Bikin	1	U+006f U+0065 U+0024
+əie$	əie	xəie	Udihe	1	U+0259 U+0069 U+0065 U+0024
+o̰u$	o̰u	ogo̰u	Udihe	1	U+006f U+0330 U+0075 U+0024
+^ͻː	<?>	ͻːndɪ	Solon	1	U+005e U+037b U+02d0
+^č	č	čɪkaːlɪː-	Evenki_Khamnigan	1	U+005e U+010d
+^ɨː	ɨː	ɨːdʉː	Evenki_StonyTunguska	1	U+005e U+0268 U+02d0
+ɑi	ɑi	χɑi-du	Orok	1	U+0251 U+0069
+rr	rr	mur.ri	Orok	1	U+0072 U+0072
+ei$	ei	ilei-	Oroch	1	U+0065 U+0069 U+0024
+uˁː$	uˤː	ʧuˁː-	Even	1	U+0075 U+02c1 U+02d0 U+0024
+ú	ú	gúgda:	Evenki_Chiringda	1	U+00fa
+a:$	aː	gúgda:	Evenki_Chiringda	1	U+0061 U+003a U+0024
+áː	áː	uldáːxsa	Evenki_Chiringda	1	U+00e1 U+02d0
+gs	gs	jaŋgsa-qo	Nanai_Bikin	1	U+0067 U+0073
+ŋs$	ŋs	lɑŋs	Xibe	1	U+014b U+0073 U+0024
+aɪ	aɪ	daɪlaldu-	Evenki_Khamnigan	1	U+0061 U+026a
+^ǝ	ə	ǝmugdǝ	Evenki_Chiringda	1	U+005e U+01dd
+æa	æa	mjæawa	Oroch	1	U+00e6 U+0061
+ɵu$	ɵu	bɵjːɵu-	Orok	1	U+0275 U+0075 U+0024
+^aʊɪ$	aʊɪ	aʊɪ	Kur_Urmi	1	U+005e U+0061 U+028a U+026a U+0024
+ɛːa	ɛːa	bɛːaɣ	Oroqen	1	U+025b U+02d0 U+0061
+iəa$	iəa	biəa	Jurchen	1	U+0069 U+0259 U+0061 U+0024
+ɴ$	ɴ	laɴ	Nanai_Najkhin	1	U+0274 U+0024
+æ̰	æ̰	bæ̰sa	Udihe	1	U+00e6 U+0330
+u:	uː	uru:mkun	Evenki_Strelka_Chun	1	U+0075 U+003a
+ø	ø	ŋø-sji-	Udihe	1	U+00f8
+^ao	ao	aoli-	Oroch	1	U+005e U+0061 U+006f
+pɕ	pɕ	ɜɬpɕi-	Hezhe	1	U+0070 U+0255
+ʤ$	dʒ	teʤ	Even	1	U+02a4 U+0024
+^iə̰$	iə̰	iə̰-	Udihe	1	U+005e U+0069 U+0259 U+0330 U+0024
+aə	aə	iamaərin	Hezhe	1	U+0061 U+0259
+^t$	t	t	Evenki_StonyTunguska	1	U+005e U+0074 U+0024
+^ʉː	ʉː	ʉːrəː	Evenki_StonyTunguska	1	U+005e U+0289 U+02d0
+lʲ	lʲ	kɔ.lʲɛ:	Orok	1	U+006c U+02b2
+ɛ:$	ɛː	kɔ.lʲɛ:	Orok	1	U+025b U+003a U+0024
