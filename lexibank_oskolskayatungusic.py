@@ -3,11 +3,11 @@ from clldutils.misc import slug
 import pylexibank
 
 SOURCES = {
-    
-    
-    
+    'Evenki_Chiringda': 'Eldogir2007',
+    'Evenki_Strelka_Chun': 'Andreeva2007',
+    'Evenki_Teteya': 'Kaplina2018',
+    'Evenki_Tutonchany': 'Kombagir2008',
 }
-
 
 
 # Helper functions
@@ -31,11 +31,10 @@ def get_best(row):
 
 
 def get_source(s):
-    if s in SOURCES:
-        return SOURCES[s]
-    elif s.split(":")[0] in SOURCES:
-        return SOURCES[s.split(":")[0]]
-    print("UNKNOWN SOURCE: %s" % s)
+    s = s.split(":")[0].replace(" ", "").replace(",", "").replace("'", "")
+    # special case for Li and Whaley
+    if s.endswith("http"):
+        s = s[0:-4]
     return s
 
 
@@ -43,9 +42,6 @@ def get_source(s):
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "oskolskayatungusic"
-
-    # register custom data types here (or language_class, lexeme_class, cognate_class):
-    #concept_class = Concept
 
     # define the way in which forms should be handled
     form_spec = pylexibank.FormSpec(
@@ -113,18 +109,35 @@ class Dataset(pylexibank.Dataset):
                 form = get_best(subrow)
                 if form.strip():
                 
+                    # get source, some languages have only one source, and do
+                    # not have per-item source information in the spreadsheet:
+                    #   "Hereinafter field data by..."
+                    # Handle these first, otherwise try to make the bibtex key
+                    source = SOURCES.get(
+                        language_lookup[language],
+                        get_source(subrow['References'])
+                    )
+                    # default to fieldnotes for Orok languages with no 
+                    # other source information
+                    if language == 'Orok' and source == '':
+                        source = 'Czerwinskisfielddata'
+                    
+                    if source not in known_sources:
+                        missing_sources[source] += 1
+                        print(i, language_lookup[language], subrow['References'])
+                        
                     lex = args.writer.add_forms_from_value(
                         Language_ID=language_lookup[language],
                         Parameter_ID=concepts[concept],
                         Value=form,
                         Comment=subrow["Comments"],
-                        Source=get_source(subrow['References'])
+                        Source=source + ';' + 'Oskolskaya2021'
                     )
                     
                     # add cognates - 
                     args.writer.add_cognate(
                         lexeme=lex[0],
-                        Cognateset_ID="%s-%d" % (concepts[concept], i)
+                        Cognateset_ID="%s-%d" % (concepts[concept], i),
+                        Source='Oskolskaya2021'
                     )
-
-
+        
