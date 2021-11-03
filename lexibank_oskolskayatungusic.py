@@ -122,10 +122,6 @@ class Dataset(pylexibank.Dataset):
                     if language == 'Orok' and source == '':
                         source = 'Czerwinskisfielddata'
                     
-                    if source not in known_sources:
-                        missing_sources[source] += 1
-                        print(i, language_lookup[language], subrow['References'])
-                        
                     lex = args.writer.add_forms_from_value(
                         Language_ID=language_lookup[language],
                         Parameter_ID=concepts[concept],
