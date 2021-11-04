@@ -45,7 +45,7 @@ class Dataset(pylexibank.Dataset):
 
     # define the way in which forms should be handled
     form_spec = pylexibank.FormSpec(
-        first_form_only=True,
+        first_form_only=False,
         brackets={"(": ")", "[": "]"},  # characters that function as brackets
         separators=";/,~",  # characters that split forms e.g. "a, b".
         missing_data=('?', '-', '='),  # characters that denote missing data.
@@ -104,6 +104,17 @@ class Dataset(pylexibank.Dataset):
             # otherwise we are still in the previous concept
             concept = row[0] if row[0] else concept
             
+            # "If a form was borrowed from non-Tungusic languages, it is
+            # written in parentheses with the reference"
+            # (in the root column)
+            
+            # We detected only 17 borrowed forms in our dataset...
+            # Considering the small number of borrowings detected (17 out of
+            # 5483 words)
+            is_loan = False
+            if '(' in row[1] and '<' in row[1]:
+                is_loan = True
+            
             for language in languages:
                 subrow = get_subrow(language, header, row)
                 form = get_best(subrow)
@@ -122,18 +133,21 @@ class Dataset(pylexibank.Dataset):
                     if language == 'Orok' and source == '':
                         source = 'Czerwinskisfielddata'
                     
-                    lex = args.writer.add_forms_from_value(
+                    lexemes = args.writer.add_forms_from_value(
                         Language_ID=language_lookup[language],
                         Parameter_ID=concepts[concept],
                         Value=form,
                         Comment=subrow["Comments"],
+                        Loan=is_loan,
                         Source=source + ';' + 'Oskolskaya2021'
                     )
                     
-                    # add cognates - 
-                    args.writer.add_cognate(
-                        lexeme=lex[0],
-                        Cognateset_ID="%s-%d" % (concepts[concept], i),
-                        Source='Oskolskaya2021'
-                    )
+                    # add cognates -
+                    if not is_loan:
+                        for lex in lexemes:
+                            args.writer.add_cognate(
+                                lexeme=lex,
+                                Cognateset_ID="%s-%d" % (concepts[concept], i),
+                                Source='Oskolskaya2021'
+                            )
         
