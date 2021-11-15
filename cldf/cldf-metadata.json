@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/lexibank/oskolskayatungusic",
             "rdf:type": "prov:Entity",
-            "dc:created": "449c08b",
+            "dc:created": "c1d262a",
             "dc:title": "Repository"
         },
         {
@@ -30,9 +30,9 @@
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.1.0",
+            "dc:created": "v2.1.0-26-gb12a7df",
             "dc:title": "CLTS"
         }
     ],
