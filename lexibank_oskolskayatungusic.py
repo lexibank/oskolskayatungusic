@@ -119,7 +119,6 @@ class Dataset(pylexibank.Dataset):
                 subrow = get_subrow(language, header, row)
                 form = get_best(subrow)
                 if form.strip():
-                
                     # get source, some languages have only one source, and do
                     # not have per-item source information in the spreadsheet:
                     #   "Hereinafter field data by..."
@@ -139,6 +138,7 @@ class Dataset(pylexibank.Dataset):
                         Value=form,
                         Comment=subrow["Comments"],
                         Loan=is_loan,
+                        Cognacy="%s-%d" % (concepts[concept], i),
                         Source=source + ';' + 'Oskolskaya2021'
                     )
                     
