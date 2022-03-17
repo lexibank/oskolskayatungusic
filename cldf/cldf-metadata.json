@@ -14,13 +14,13 @@
         {
             "rdf:about": "https://github.com/lexibank/oskolskayatungusic",
             "rdf:type": "prov:Entity",
-            "dc:created": "eb516e7",
+            "dc:created": "a880c83",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
+            "dc:created": "v4.5",
             "dc:title": "Glottolog"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.6"
+            "dc:description": "3.9.9"
         },
         {
             "dc:title": "python-packages",
