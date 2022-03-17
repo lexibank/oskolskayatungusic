@@ -138,7 +138,7 @@ class Dataset(pylexibank.Dataset):
                         Value=form,
                         Comment=subrow["Comments"],
                         Loan=is_loan,
-                        Cognacy="%s-%d" % (concepts[concept], i),
+                        Cognacy=i+1,
                         Source=source + ';' + 'Oskolskaya2021'
                     )
                     
