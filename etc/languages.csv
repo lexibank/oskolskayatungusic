@@ -1,22 +1,22 @@
 ID,Name,Glottocode,ISO639P3code
-Even,Even,even1260,
-Evenki_Chiringda,"Chiringda Evenki (Krasnoyarsk krai, Evenki municipal district; Northern)",,
+Even,Even,even1260,eve
+Evenki_Chiringda,"Chiringda Evenki (Krasnoyarsk krai, Evenki municipal district; Northern)",hiss1234,eve
 Evenki_Khamnigan,Khamnigan Evenki,hail1248,
 Evenki_StonyTunguska,Stony Tunguska Evenki (Southern),hiss1234,
-Evenki_Strelka_Chun,"Strelka-Chunya Evenki (Krasnoyarsk krai, Evenki municipal district; Southern)",,
-Evenki_Teteya,"Teteya Evenki (Irkutsk oblast, Katangskiy district; Northern)",,
+Evenki_Strelka_Chun,"Strelka-Chunya Evenki (Krasnoyarsk krai, Evenki municipal district; Southern)",hiss1234,eve
+Evenki_Teteya,"Teteya Evenki (Irkutsk oblast, Katangskiy district; Northern)",nort3334,eve
 Evenki_Tutonchany,"Tutonchany Evenki (Krasnoyarsk krai, Evenki municipal district; Northern)",ilim1234,
 Hezhe,Hezhe,kile1243,
-Jurchen,Jurchen,jurc1239,
+Jurchen,Jurchen,jurc1239,juc
 Kur_Urmi,Kur-Urmì,kuro1242,
-Manchu,Manchu,manc1252,
-Nanai_Bikin,Bikin Nanai,nana1257,
-Nanai_Najkhin,Najkhin Nanai,nana1257,
-Negidal,Negidal,negi1245,
-Oroch,Oroch,oroc1248,
-Orok,Orok,orok1265,
-Oroqen,Oroqen,oroq1238,
+Manchu,Manchu,manc1252,mnc
+Nanai_Bikin,Bikin Nanai,nana1257,gld
+Nanai_Najkhin,Najkhin Nanai,nana1257,gld
+Negidal,Negidal,negi1245,neg
+Oroch,Oroch,oroc1248,oac
+Orok,Orok,orok1265,oaa
+Oroqen,Oroqen,oroq1238,orh
 Solon,Solon,solo1263,
-Udihe,Udihe,udih1248,
-Ulcha,Ulch,ulch1241,
-Xibe,Xibe,xibe1242,
+Udihe,Udihe,udih1248,ude
+Ulcha,Ulch,ulch1241,ulc
+Xibe,Xibe,xibe1242,sjo
