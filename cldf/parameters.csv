@@ -72,7 +72,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 71_antn,ant (n.),587,ANT
 72_heavy,heavy,1210,HEAVY
 73_takev,take (v.),1749,TAKE
-74_old,old,2113,OLD (USED)
+74_old,old,1229,OLD
 75_eatv,eat (v.),1336,EAT
 76_thighn,thigh (n.),471,UPPER LEG (THIGH)
 77_thick,thick,1244,THICK
@@ -179,7 +179,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 178_womann,woman (n.),962,WOMAN
 179_deep,deep,1593,DEEP
 180_above,above,1741,ABOVE
-181_femaleofananimaln,female (of an animal) (n.),,
+181_femaleofananimaln,female (of an animal) (n.),3923,FEMALE ANIMAL
 182_putonv,put on (v.),158,PUT ON
 183_other,other,197,OTHER
 184_foreheadn,forehead (n.),123,FOREHEAD
@@ -190,7 +190,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 189_breakv,break (v.),2558,BREAK (CLEAVE)
 190_where,where?,1237,WHERE
 191_spinv,spin (v.),121,SPIN
-192_ripev,ripe (v.),178,RIPE
+192_ripev,ripe (v.),179,RIPEN
 193_lickv,lick (v.),319,LICK
 194_openv,open (v.),1156,OPEN
 195_tall,tall,711,TALL

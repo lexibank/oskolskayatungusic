@@ -14,11 +14,14 @@ This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://doi.org/10.1075/dia.20010.osk
 
+
+Conceptlists in Concepticon:
+- [Oskolskaya-2021-254](https://concepticon.clld.org/contributions/Oskolskaya-2021-254)
 ## Statistics
 
 
 [![Build Status](https://travis-ci.org/lexibank/oskolskayatungusic.svg?branch=master)](https://travis-ci.org/lexibank/oskolskayatungusic)
-![Glottolog: 89%](https://img.shields.io/badge/Glottolog-89%25-yellowgreen.svg "Glottolog: 89%")
+![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
@@ -33,7 +36,7 @@ Available online at https://doi.org/10.1075/dia.20010.osk
 - **Cognate Diversity:** 0.15
 - **Invalid lexemes:** 0
 - **Tokens:** 28,909
-- **Segments:** 171 (0 BIPA errors, 0 CTLS sound class errors, 171 CLTS modified)
+- **Segments:** 171 (0 BIPA errors, 0 CLTS sound class errors, 171 CLTS modified)
 - **Inventory size (avg):** 45.33
 
 # Contributors
