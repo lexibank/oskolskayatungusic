@@ -2,4 +2,7 @@
 
 Name | GitHub user | Role
 --- | --- | ---
- | @ | maintainer
+Sofia Oskolskaya |  | Author
+Ezequiel Koile |  | Author
+Martine Robbeets |  | Author
+Simon Greenhill | @SimonGreenhill | maintainer
