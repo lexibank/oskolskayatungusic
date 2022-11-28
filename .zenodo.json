@@ -7,7 +7,19 @@
     ],
     "creators": [
         {
-            "name": ""
+            "name": "Sofia Oskolskaya"
+        },
+        {
+            "name": "Ezequiel Koile"
+        },
+        {
+            "name": "Martine Robbeets"
+        },
+        {
+            "name": "Simon Greenhill"
+        },
+        {
+            "name": "Johann-Mattis List"
         }
     ],
     "contributors": [],
@@ -17,7 +29,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Oskolskaya, S., Koile, E., &amp; Robbeets, M. (2021). A Bayesian approach to the classification of Tungusic languages. Diachronica.</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Oskolskaya, S., Koile, E., &amp; Robbeets, M. (2021). A Bayesian approach to the classification of Tungusic languages. Diachronica, 39(1), 128\u2013158. https://doi.org/10.1075/dia.20010.osk</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }

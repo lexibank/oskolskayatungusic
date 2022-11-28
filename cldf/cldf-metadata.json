@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Oskolskaya, S., Koile, E., & Robbeets, M. (2021). A Bayesian approach to the classification of Tungusic languages. Diachronica.",
+    "dc:bibliographicCitation": "Oskolskaya, S., Koile, E., & Robbeets, M. (2021). A Bayesian approach to the classification of Tungusic languages. Diachronica, 39(1), 128\u2013158. https://doi.org/10.1075/dia.20010.osk",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Oskolskaya-2021-254"
@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/oskolskayatungusic",
             "rdf:type": "prov:Entity",
-            "dc:created": "be8fbed",
+            "dc:created": "fb464f5",
             "dc:title": "Repository"
         },
         {

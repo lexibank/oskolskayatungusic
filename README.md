@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Oskolskaya, S., Koile, E., & Robbeets, M. (2021). A Bayesian approach to the classification of Tungusic languages. Diachronica.
+  > Oskolskaya, S., Koile, E., & Robbeets, M. (2021). A Bayesian approach to the classification of Tungusic languages. Diachronica, 39(1), 128–158. https://doi.org/10.1075/dia.20010.osk
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -43,8 +43,11 @@ Conceptlists in Concepticon:
 
 Name | GitHub user | Role
 --- | --- | ---
- | @ | maintainer
-
+Sofia Oskolskaya |  | Author
+Ezequiel Koile |  | Author
+Martine Robbeets |  | Author
+Simon Greenhill | @SimonGreenhill | maintainer
+Johann-Mattis List      | @lingulist | maintainer
 
 
 
