@@ -14,15 +14,18 @@
         },
         {
             "name": "Martine Robbeets"
-        },
-        {
-            "name": "Simon Greenhill"
-        },
-        {
-            "name": "Johann-Mattis List"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Simon Greenhill",
+            "type": "Editor"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"

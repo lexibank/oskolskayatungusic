@@ -36,18 +36,19 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.15
 - **Invalid lexemes:** 0
 - **Tokens:** 28,909
-- **Segments:** 171 (0 BIPA errors, 0 CLTS sound class errors, 171 CLTS modified)
+- **Segments:** 171 (0 BIPA errors, 0 CTLS sound class errors, 171 CLTS modified)
 - **Inventory size (avg):** 45.33
 
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
-Sofia Oskolskaya |  | Author
-Ezequiel Koile |  | Author
-Martine Robbeets |  | Author
-Simon Greenhill | @SimonGreenhill | maintainer
-Johann-Mattis List      | @lingulist | maintainer
+Name               | GitHub user     | Description | Role
+---                | ---             | --- | ---
+Sofia Oskolskaya   |                 | author | Author
+Ezequiel Koile     |                 | author | Author
+Martine Robbeets   |                 | author | Author
+Simon Greenhill    | @SimonGreenhill | CLDF conversion | Editor
+Johann-Mattis List | @lingulist      | orthography profile | Other
+
 
 
 

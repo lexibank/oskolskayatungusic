@@ -1,9 +1,9 @@
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
-Sofia Oskolskaya |  | Author
-Ezequiel Koile |  | Author
-Martine Robbeets |  | Author
-Simon Greenhill | @SimonGreenhill | maintainer
-Johann-Mattis List      | @lingulist | maintainer
+Name               | GitHub user     | Description | Role
+---                | ---             | --- | ---
+Sofia Oskolskaya   |                 | author | Author
+Ezequiel Koile     |                 | author | Author
+Martine Robbeets   |                 | author | Author
+Simon Greenhill    | @SimonGreenhill | CLDF conversion | Editor
+Johann-Mattis List | @lingulist      | orthography profile | Other
