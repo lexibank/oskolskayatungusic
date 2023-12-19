@@ -20,7 +20,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/oskolskayatungusic.svg?branch=master)](https://travis-ci.org/lexibank/oskolskayatungusic)
+[![CLDF validation](https://github.com/lexibank/oskolskayatungusic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/oskolskayatungusic/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -36,7 +36,7 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.15
 - **Invalid lexemes:** 0
 - **Tokens:** 28,909
-- **Segments:** 171 (0 BIPA errors, 0 CTLS sound class errors, 171 CLTS modified)
+- **Segments:** 171 (0 BIPA errors, 0 CLTS sound class errors, 171 CLTS modified)
 - **Inventory size (avg):** 45.33
 
 # Contributors
