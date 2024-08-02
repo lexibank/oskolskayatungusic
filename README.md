@@ -1,5 +1,7 @@
 # CLDF dataset derived from Oskolskaya et al.'s "A Bayesian approach to the classification of Tungusic languages" from 2021
 
+[![CLDF validation](https://github.com/lexibank/oskolskayatungusic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/oskolskayatungusic/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -27,8 +29,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 21
-- **Concepts:** 254
+- **Varieties:** 21 (linked to 18 different Glottocodes)
+- **Concepts:** 254 (linked to 254 different Concepticon concept sets)
 - **Lexemes:** 6,095
 - **Sources:** 46
 - **Synonymy:** 1.21
